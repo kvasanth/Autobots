@@ -1,0 +1,243 @@
+.cameraSlide, .sl-products.vmproduct.product-details.owl-carousel, .camera_src, .camera_target, .owl-carousel.owl-theme {
+	direction: ltr;
+}
+
+.owl-pagination {
+	direction: rtl;
+}
+
+ul, ol {
+    padding: 0;
+    margin: 0 25px 10px 0;
+}
+
+#site-name-handler, #st-navigation, #search-position .inputbox, .orderlistcontainer, .view-as, .display-number .display-results-no, .menu-nav li,
+.product-related-products .product-field.product-field-type-R, .product-neighbours a.previous-page,
+.productdetails-view .spacer-buy-area input.addtocart-button {
+	float: right;
+}
+
+#megamenu-handler {
+	float: none;
+}
+
+.menu-nav li:hover ul, .menu-nav li.sfHover ul {
+	right: 0px!important;
+}
+
+#mega-menu {
+	left: 0px;
+}
+
+#top-handler > .container > .row-fluid > .offset3 {
+    margin-right: 25%!important;
+	margin-left: 0 !important;
+}
+
+.camera_overlayer:after {
+	right: 0px;
+	left: auto;
+}
+
+.camera_caption a.button {
+    margin: 5px 0px 5px 10px!important;
+}
+
+#cl-handler .cl-handler, #search-position, #tpr-nav, #menu, #cl-handler, .mega-menu-responsive-handler, .product-neighbours a.next-page,
+a.menupanel {
+	float: left; 
+}
+
+.productdetails-view .addtocart-bar,
+.browse-top h1,
+.browse-view .h-pr-title, .browse-view .product .spacer h2, .h-pr-title, .short_des, .product-price,
+.vmproduct.product-details .spacer .product-price .PricesalesPrice {
+	text-align: right !important;
+}
+
+#search-position .search, #search-position .finder, .display-number .display-results-no, .display-number,
+.camera_wrap .camera_pag .camera_pag_ul {
+	text-align: left;
+}
+
+.productdetails-view .addtocart-bar span.addtocart-button {
+	right: 58px;
+}
+
+.vmproduct.product-details.owl-carousel .spacer {
+	flex-direction: row-reverse;
+}
+
+#sbox-btn-close {
+    right: auto !important;
+    left: 0px !important;
+}
+
+.camera_wrap .camera_pag .camera_pag_ul li {
+	text-indent: 9999px;
+}
+
+#site-name-handler #sh-handler {
+	left: 0px;
+	right: auto;
+}
+
+#search-position #searchpanel {
+    right: auto;
+    left: -80px;
+}
+
+#vmCartModule div.panel2 {
+    left: -40px;
+    right: auto !important;
+}
+
+#tpr-nav #LoginForm, .item-page .icons {
+	left: 0px;
+	right: auto !important;
+}
+
+.orderlistcontainer {
+	margin: 0 0 0 15px;
+}
+
+.display-number .display-results-no {
+	margin-left: 5%;
+	margin-right: 0 !important;
+}
+
+.spacer .action-handler .addtocart-bar span.quantity-box {
+    margin: 0px -120px 0px 0px;
+    right: 50%;
+	left: auto;
+}
+
+.icon-chevron-right {
+    background-position: -432px -72px;
+}
+
+.icon-chevron-left {
+    background-position: -456px -72px;
+}
+
+.product-neighbours a.previous-page:before {
+	float: right;
+	content: "\f105";
+}
+
+.product-neighbours a.next-page:after {
+	float: left;
+	content: "\f104";
+	text-align: left !important;
+}
+
+.vm-pdf-button a, .vm-print-button a, .vm-email-button a, .owl-theme .owl-controls .owl-buttons div {
+	text-indent: 9999px;
+}
+
+.spacer .action-handler .addtocart-bar span.quantity-box {
+    margin: 0px 0px 0px 0px;
+    right: 72px;
+}
+
+.spacer .action-handler .addtocart-bar span.quantity-controls {
+    margin: 0px 0px 8px 0px;
+    left: 0px;
+    right: 36px;
+}
+
+.addtocart-bar span.addtocart-button {
+    right: 0px;
+}
+
+.action-handler {
+    text-align: right!important;
+}
+
+.selectric .button {
+	right: auto;
+	left: 0px;
+}
+
+.selectric p.label, .selectric-items li {
+	text-align: right;
+}
+
+.sf-sub-indicator {
+	border-left-color: transparent !important;
+	border-right-color: inherit !important;
+	right: auto !important;
+	left: 0.15em;
+}
+
+#Tab1 {
+	margin-right: 0px;
+}
+
+.menu-nav li:hover ul, .menu-nav li.sfHover ul {
+	left: auto;
+	right: -5px;
+}
+
+.menu-nav ul ul {
+	margin: -5px 0px 10px 10px;
+}
+
+
+.moduletable_banner3 .custom_banner3 .con_style1 ul {
+	left: 5%;
+	right: auto;
+}
+
+@media (max-width: 979px) {
+
+#menu {
+    float: none;
+}
+
+.responsive-menu ul#nav.menu-nav ul, #mega-menu .menu-nav ul {
+    padding-left: 0px!important;
+	margin: 0px 16px 0px 0px ;
+}
+
+.responsive-menu ul#nav.menu-nav ul li:before, #mega-menu .menu-nav ul li:before {
+    right: -1px;
+    left: auto;
+    top: 9px;
+}
+
+.responsive-menu ul#nav.menu-nav ul, #mega-menu .menu-nav ul {
+    border-right: 2px solid rgba(0,0,0,0.1)!important;
+	border-left: none !important;
+}
+
+.menu-nav>li>a {
+	padding: 0px 0px 0px 16px!important
+}
+
+#menu .menu-nav>li>a>span small, #mega-menu span small {
+	float: left;
+}
+
+a.menupanel {
+	margin-left: 10px;
+	margin-right: 0px !important;
+}
+
+
+}
+
+
+@media screen and (max-width: 767px) {
+
+#cl-handler {
+
+	margin-right: 0px;
+}
+
+#sh-handler {
+    float: left;
+}
+
+
+}

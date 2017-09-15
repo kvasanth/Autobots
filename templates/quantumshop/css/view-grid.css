@@ -1,0 +1,19 @@
+.product_s_desc {
+	display: none;
+}
+
+.browse-view .h-pr-details {
+	padding: 0px 0px;
+}
+
+.browse-view .addtocart-bar {
+	margin: 0px;
+}
+
+.browse-view .vm3pr {
+	clear: none;
+}
+
+.browse-view .h-pr-title, .browse-view .product .spacer h2 {
+	padding: 10px 0px !important;
+}

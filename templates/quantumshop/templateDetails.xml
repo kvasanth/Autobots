@@ -1,0 +1,1338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<extension version="3.4" type="template" client="site">
+  <name>quantumshop</name>
+  <creationDate>12/01/2017</creationDate>
+  <author>virtuemarttemplates.net</author>
+  <authorEmail>team@virtuemarttemplates.net</authorEmail>
+  <authorUrl>http://www.virtuemarttemplates.net</authorUrl>
+  <copyright>http://virtuemarttemplates.net/terms-of-service.html</copyright>
+  <license>Commercial</license>
+  <version>17.05.2017 3.7.1/3.2.2</version>
+<description>
+<![CDATA[
+	<div class="template-name-handler">
+	<div class="row-fluid">
+	<div class="span12">
+	<h1 class="template-name"><span class="name">quantumshop</span> <span class="hidden-phone">VirtueMart Template</span></h1>
+	<ul class="social-icons"><li class="twitter"><a href="https://twitter.com/virtuemarttemps" target="_blank" title="Follow us on Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li><li class="facebook"><a href="https://www.facebook.com/virtuemarttemplate" target="_blank" title="Follow us on Facebook"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li><li class="googleplus"><a href="http://google.com/+VirtuemarttemplatesNet" target="_blank" title="Follow us on Google+"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li></ul>
+	</div>
+	</div>
+	</div>
+	<div class="row-fluid">
+	<div class="span12">
+	<p class="version">Template Version: <span class="version-number">17.05.2017 3.7.1/3.2.2</span></p>
+	<p>
+	Joomla template developed and released by <a target='_blank' href='http://www.virtuemarttemplates.net/'><b>www.virtuemarttemplates.net</b></a>. This Joomla template IS NOT FREE OR PUBLIC AND CAN NOT BE RESOLED OR REDISTRIBUTED. By downloading and using this template you have agreed to use the template in accordance with the terms of service outlined at <a target='_blank' href='http://virtuemarttemplates.net/terms-of-service.html'><b>www.virtuemarttemplates.net/terms-of-service.html</b></a>
+	</p>
+	</div>
+	</div>
+	
+	<div class="row-fluid mt-navigation">
+		<div class="col-rf-3"><div class="ico-handler ico1">
+		<a href="https://demo.virtuemarttemplates.net/" rel="nofollow" target="_blank"><i class="fa fa-plus-circle" aria-hidden="true"></i><br>Buy New Template</a>
+		</div></div>
+		<div class="col-rf-3"><div class="ico-handler ico2">
+		<a href="https://www.virtuemarttemplates.net/upgrade-package.html" rel="nofollow" target="_blank"><i class="fa fa-arrow-circle-up" aria-hidden="true"></i><br>Upgrade Package</a>
+		</div></div>
+		<div class="col-rf-3"><div class="ico-handler ico3">
+		<a href="https://virtuemarttemplates.net/design-services.html" rel="nofollow" target="_blank"><i class="fa fa-paint-brush" aria-hidden="true"></i><br>Order Custom Design</a>
+		</div></div>
+		<div class="col-rf-3"><div class="ico-handler ico4">
+		<a href="https://www.virtuemarttemplates.net/open-a-new-support-ticket.html" rel="nofollow" target="_blank"><i class="fa fa-life-ring" aria-hidden="true"></i><br>Template Support</a>
+		</div></div>
+	</div>
+	
+	<div class="row-fluid mt-navigation">
+		<div class="col-rf-3"><div class="ico-handler ico5">
+		<a href="https://demo.virtuemarttemplates.net/online-store/services/joomla-hosting-detail.html" rel="nofollow" target="_blank"><i class="fa fa-server" aria-hidden="true"></i><br>Joomla Hosting</a>
+		</div></div>
+		<div class="col-rf-3"><div class="ico-handler ico6">
+		<a href="https://demo.virtuemarttemplates.net/online-store/services/template-installation-service-detail.html" rel="nofollow" target="_blank"><i class="fa fa-cog" aria-hidden="true"></i><br>Template Installation Service</a>
+		</div></div>
+		<div class="col-rf-3"><div class="ico-handler ico7">
+		<a href="https://demo.virtuemarttemplates.net/online-store/services/template-customization-service-detail.html" rel="nofollow" target="_blank"><i class="fa fa-magic" aria-hidden="true"></i><br>Template Customization Service</a>
+		</div></div>
+		<div class="col-rf-3"><div class="ico-handler ico8">
+		<a href="https://demo.virtuemarttemplates.net/online-store/services/website-optimization-detail.html" rel="nofollow" target="_blank"><i class="fa fa-rocket" aria-hidden="true"></i><br>Website Optimization</a>
+		</div></div>
+	</div>
+	
+	<div class="row-fluid mt-navigation">
+		<div class="col-rf-3"><div class="ico-handler ico9">
+		<a href="https://demo.virtuemarttemplates.net/online-store/services/website-maintenance-detail.html" rel="nofollow" target="_blank"><i class="fa fa-wrench" aria-hidden="true"></i><br>Website Maintenance</a>
+		</div></div>
+		<div class="col-rf-3"><div class="ico-handler ico10">
+		<a href="https://demo.virtuemarttemplates.net/online-store/services/website-security-detail.html" rel="nofollow" target="_blank"><i class="fa fa-shield" aria-hidden="true"></i><br>Website Security</a>
+		</div></div>
+		<div class="col-rf-3"><div class="ico-handler ico11">
+		<a href="https://virtuemarttemplates.net/template-club.html" rel="nofollow" target="_blank"><i class="fa fa-users" aria-hidden="true"></i><br>Join Template Club</a>
+		</div></div>
+		<!--
+		<div class="col-rf-3"><div class="ico-handler ico12">
+		<a href="https://demo.virtuemarttemplates.net/online-store/services/joomla-support-detail.html" rel="nofollow" target="_blank"><i class="fa fa-life-ring" aria-hidden="true"></i><br>Joomla and VirtueMart Support</a>
+		</div></div>
+		-->
+	</div>
+	
+
+
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css" media="all" />
+
+	<style type="text/css">
+	.template-name-handler{background:#ededed;background:-moz-linear-gradient(top,#ededed 0%, #e1e1e1 100%);background:-webkit-linear-gradient(top,#ededed 0%,#e1e1e1 100%);background:linear-gradient(to bottom,#ededed 0%,#e1e1e1 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#ededed', endColorstr='#e1e1e1',GradientType=0 );-webkit-box-shadow: 0px 2px 6px rgba(0,0,0,0.09);-moz-box-shadow: 0px 2px 6px rgba(0,0,0,0.09);box-shadow: 0px 2px 6px rgba(0,0,0,0.09);-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;border: 1px solid #d4d4d4;position: relative;margin-bottom:30px;}
+
+.template-name{line-height:75px;float: left;font-size:24px;color: #656565;font-weight: 400;margin:0 20px;padding:0px;text-shadow:0px 1px 0px #ffffff;}
+
+.template-name .name {text-transform:uppercase;font-weight:900;}
+
+.version{margin-bottom:25px;}
+
+.version-number{display:inline-block;padding: 3px 7px;color:#ffffff;background-color:#2b80c1;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;}
+
+.social-icons{float:right;margin:0px;padding:0px;height:76px;overflow:hidden;}
+
+.social-icons li{display:inline-block;width:76px;height:76px;line-height:76px;}
+
+.social-icons li a{display:inline-block;width:76px;height:76px;text-align:center;color:#ffffff;font-size:30px;text-shadow:0px 2px 6px rgba(0,0,0,0.3);position:relative;overflow:hidden;-webkit-box-shadow:0px 1px 0px rgba(255,255,255,0.5) inset;-moz-box-shadow:0px 1px 0px rgba(255,255,255,0.5) inset;box-shadow:0px 1px 0px rgba(255,255,255,0.5) inset;}
+
+.social-icons li.twitter{background: #1da1f2;background: -moz-linear-gradient(top,  #1da1f2 0%, #1084ec 100%);background: -webkit-linear-gradient(top,  #1da1f2 0%,#1084ec 100%);background: linear-gradient(to bottom,  #1da1f2 0%,#1084ec 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1da1f2', endColorstr='#1084ec',GradientType=0 );}
+
+.social-icons li.facebook{background: #365899;background: -moz-linear-gradient(top,  #365899 0%, #213b7b 100%);background: -webkit-linear-gradient(top,  #365899 0%,#213b7b 100%);background: linear-gradient(to bottom,  #365899 0%,#213b7b 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#365899', endColorstr='#213b7b',GradientType=0 );}
+
+.social-icons li.googleplus{background: #db4437;background: -moz-linear-gradient(top,  #db4437 0%, #cc2b22 100%);background: -webkit-linear-gradient(top,  #db4437 0%,#cc2b22 100%);background: linear-gradient(to bottom,  #db4437 0%,#cc2b22 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#db4437', endColorstr='#cc2b22',GradientType=0 );-webkit-border-radius:0px 5px 5px 0px;-moz-border-radius:0px 5px 5px 0px;border-radius:0px 5px 5px 0px;}
+
+.social-icons li a i {position:relative;z-index:9;}
+
+.social-icons li a:before {content:"";position:absolute;top:78px;width:76px;height:76px;left:0px;-moz-transition-duration:0.4s;-webkit-transition-duration:0.4s;-o-transition-duration:0.4s;-ms-transition-duration:0.4s;transition-duration:0.4s;-webkit-transition-property:all!important;-ms-transition-property:all!important;-o-transition-property:all!important;-moz-transition-property:all!important;transition-property:all!important;z-index:0;}
+
+.social-icons li a:hover:before {top:0px;}
+
+.social-icons li.twitter a:hover:before {background:#1084ec;}
+
+.social-icons li.facebook a:hover:before {background:#213b7b;}
+
+.social-icons li.googleplus a:hover:before {background:#cc2b22;-webkit-border-radius:0px 5px 5px 0px;-moz-border-radius:0px 5px 5px 0px;border-radius:0px 5px 5px 0px;}
+
+.row-fluid .col-rf-3 {float:left;width: 24%;margin-left: 1.33%;}
+
+.row-fluid .col-rf-3:first-child {margin-left:0px;}
+
+.mt-navigation {margin: 20px 0px;}
+
+.mt-navigation .col-rf-3 > div a {display: inline-block;padding: 30px 10%;width: 80%;color: #585858 !important;text-decoration: none !important;font-size: 14px;font-weight: 700;text-shadow: 1px 1px 0px rgba(255,255,255,1)}
+
+.mt-navigation .col-rf-3 > div a i.fa {font-size: 30px;margin-bottom: 20px;width:54px;height:54px;line-height:54px;-webkit-border-radius:100%;-moz-border-radius:100%;border-radius:100%;text-shadow: 0px 2px 6px rgba(0,0,0,0.3);color:#ffffff;
+-webkit-box-shadow: 0px 2px 2px rgba(255,255,255,1);
+-moz-box-shadow: 0px 2px 2px rgba(255,255,255,1);
+box-shadow: 0px 2px 2px rgba(255,255,255,1);
+}
+
+.mt-navigation .col-rf-3 > div {text-align:center;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;-webkit-box-shadow: 0px 2px 6px rgba(0,0,0,0.3);-moz-box-shadow: 0px 2px 6px rgba(0,0,0,0.3);box-shadow: 0px 2px 6px rgba(0,0,0,0.3);-moz-transition-duration:0.2s;-webkit-transition-duration:0.2s;-o-transition-duration:0.2s;-ms-transition-duration:0.2s;transition-duration:0.2s;-webkit-transition-property:all!important;-ms-transition-property:all!important;-o-transition-property:all!important;-moz-transition-property:all!important;transition-property:all!important;}
+
+.mt-navigation .col-rf-3 > div:hover {opacity: 0.9;}
+
+.mt-navigation .col-rf-3 > div.ico-handler {
+    background: #ededed;
+    background: -moz-linear-gradient(top,#ededed 0%, #e1e1e1 100%);
+    background: -webkit-linear-gradient(top,#ededed 0%,#e1e1e1 100%);
+    background: linear-gradient(to bottom,#ededed 0%,#e1e1e1 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ededed', endColorstr='#e1e1e1',GradientType=0 );
+    -webkit-box-shadow: 0px 2px 6px rgba(0,0,0,0.09);
+    -moz-box-shadow: 0px 2px 6px rgba(0,0,0,0.09);
+    box-shadow: 0px 2px 6px rgba(0,0,0,0.09);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border: 1px solid #d4d4d4;
+	min-height: 170px;
+}
+
+.mt-navigation .col-rf-3 > div.ico1 .fa {background: #2b80c1;}
+
+.mt-navigation .col-rf-3 > div.ico2 .fa {background: #8fc22b;}
+
+.mt-navigation .col-rf-3 > div.ico3 .fa {background: #d16900;}
+
+.mt-navigation .col-rf-3 > div.ico4 .fa {background: #d12a2a;}
+
+.mt-navigation .col-rf-3 > div.ico5 .fa {background: #3190ad;}
+
+.mt-navigation .col-rf-3 > div.ico6 .fa {background: #a33354;}
+
+.mt-navigation .col-rf-3 > div.ico7 .fa {background: #d15415;}
+
+.mt-navigation .col-rf-3 > div.ico8 .fa {background: #c7143b;}
+
+.mt-navigation .col-rf-3 > div.ico9 .fa {background: #e0b000;}
+
+.mt-navigation .col-rf-3 > div.ico10 .fa {background: #7aa312;}
+
+.mt-navigation .col-rf-3 > div.ico11 .fa {background: #396699;}
+
+.mt-navigation .col-rf-3 > div.ico12 .fa {background: #a32a12;}
+
+@media (min-width:501px) and (max-width:1200px){
+.mt-navigation .col-rf-3 > div a {font-size:13px;}
+}
+
+@media (min-width:501px) and (max-width:1070px){.row-fluid .col-rf-3 {width:48%!important;margin: 10px 1% !important;}
+
+.template-name{font-size:18px;line-height:49px;}
+
+.social-icons{height:50px;}
+
+.social-icons li,.social-icons li a{width:50px;height:50px;line-height:50px;font-size:20px;}
+
+.mt-navigation{margin:0px;}
+
+}
+
+@media (max-width:500px){.row-fluid .col-rf-3 {width:98%!important;margin: 10px 1% !important;}
+
+.template-name{font-size:18px;line-height:49px;}
+
+.social-icons{height:50px;}
+
+.social-icons li,.social-icons li a{width:50px;height:50px;line-height:50px;font-size:20px;}
+.mt-navigation{margin:0px;}
+
+}
+
+.row-fluid.form-horizontal-desktop .span6,#details .span3,#details .span9{float:none !important;width:100% !important;margin:0px !important;}
+
+.form-horizontal .control-group{margin-bottom:0px !important;padding:8px 0px;border-bottom:1px solid #dddddd;}
+
+@media (max-width:480px){.spacer .inline-help label{width:180px !important;min-width:180px !important;}
+
+label{width:100% !important; max-width:100%; min-width:100%;}
+
+}
+
+@media (min-width:481px) and (max-width:767px){.spacer .inline-help label{width:380px !important;min-width:380px !important;}
+
+label,.control-label,.controls{display:inline-block !important;}
+
+.control-label{padding-right:5px !important;}
+
+}
+
+@media (min-width:768px){.nav-tabs{width:21%;margin-right:0;float:left;border-bottom:none;position:static;margin-top:10px;}
+
+.nav-tabs>li{float:none !important; margin-bottom:3px;}
+
+.nav-tabs>li>a{border:none; -webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;background:#f5f5f5;margin:0px !important;}
+
+.nav-tabs>.active>a,.nav-tabs>.active>a:hover,.nav-tabs>.active>a:focus{color:#ffffff;background-color:#2b80c1;border:none;}
+
+.tab-content{background:#ffffff;width:75%;float:left;margin-left:1%;padding:5px 1% 20px 1%;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;-webkit-box-shadow:0px 0px 5px rgba(0,0,0,0.18);-moz-box-shadow:0px 0px 5pxx rgba(0,0,0,0.18);box-shadow:0px 0px 5px rgba(0,0,0,0.18);border:1px solid #dddddd;min-height:360px;}
+
+}
+
+@media (max-width:767px){.nav-tabs{border-bottom:none;}
+
+.nav-tabs>li{float:none !important;margin-bottom:3px;}
+
+.nav-tabs>li>a{border:none; -webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;background:#f5f5f5;margin:0px !important;}
+
+.nav-tabs>.active>a,.nav-tabs>.active>a:hover,.nav-tabs>.active>a:focus{color:#ffffff;background-color:#2b80c1;border:none;}
+
+}
+
+@media (min-width:768px) and (max-width:979px){.spacer .inline-help label{width:460px !important;min-width:460px !important;}
+
+label,.control-label,.controls{display:inline-block !important;}
+
+.control-label{padding-right:5px !important;}
+
+}
+
+@media (min-width:980px){.spacer .inline-help label{width:610px !important;min-width:610px !important;}
+
+label,.control-label,.controls{display:inline-block !important;}
+
+.control-label{padding-right:5px !important;}
+
+}
+
+.spacer .inline-help label{display:block; padding:14px 20px !important; margin:0px 0px 5px 0px !important; background:#2b80c1; color:#ffffff; text-shadow:-1px -1px 0px rgba(0,0,0,0.2);box-shadow:2px 2px 3px rgba(0,0,0,0.18);-moz-box-shadow:2px 2px 3px rgba(0,0,0,0.18);-webkit-box-shadow:2px 2px 3px rgba(0,0,0,0.18);border-bottom-left-radius:3px 3px;border-bottom-right-radius:3px 3px;border-top-left-radius:3px 3px !important;border-top-right-radius:3px 3px !important;-moz-border-radius:3px 3px 3px 3px;}
+
+div.label{display:block !important;background:#f5f5f5 !important;border:1px solid #eeeeee;padding:10px;width:400px !important;min-width:400px !important;max-width:400px !important;-webkit-box-shadow:#dedede 0px 0px 0px 1px,rgba(0,0,0,0.296875) 1px 2px 5px;box-shadow:#dedede 0px 0px 0px 1px,rgba(0,0,0,0.296875) 1px 2px 5px;}
+
+label{width:160px !important; max-width:160px; min-width:160px;}
+
+.input-color{padding:3px !important; font-size: 12px;background-image: url(../templates/quantumshop/images/color_wheel.png);background-position: 4px 5px;background-repeat: no-repeat;cursor: pointer;text-quantumshop: uppercase;border: 1px solid #CCC !important;border-bottom-left-radius: 5px 5px !important;border-bottom-right-radius: 5px 5px !important;border-top-left-radius: 5px 5px !important;border-top-right-radius: 5px 5px !important;padding: 5px 5px 5px 26px !important;}
+
+.input-text {background-image: #ffffff;border: 1px solid #CCC !important;border-bottom-left-radius: 5px 5px !important;border-bottom-right-radius: 5px 5px !important;border-top-left-radius: 5px 5px !important;border-top-right-radius: 5px 5px !important;padding: 5px 5px 5px 5px !important;}
+
+.pane-sliders {padding: 6px;background: #ffffff;box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.28);-moz-box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.28);-webkit-box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.28);border-bottom-left-radius: 6px 6px;border-bottom-right-radius: 6px 6px;border-top-left-radius: 6px 6px !important;border-top-right-radius: 6px 6px !important;-moz-border-radius:6px 6px 6px 6px;}
+
+.pane-sliders .panel h3 {font-size: 15px;margin-bottom: 5px;text-quantumshop: uppercase;font-weight: normal;padding: 9px 9px;text-shadow: 1px 1px 3px rgba(0,0,0, 0.4);border: 1px solid #cccccc !important;box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.18);-moz-box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.18);-webkit-box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.18);border-bottom-left-radius: 3px 3px;border-bottom-right-radius: 3px 3px;border-top-left-radius: 3px 3px !important;border-top-right-radius: 3px 3px !important;-moz-border-radius:3px 3px 3px 3px;}
+
+.pane-sliders .panel h3 a {color: #444444;}
+
+	.pane-sliders .panel {border: 0px;}
+
+ul.adminformlist, ul.adminformlist li {clear: both; padding: 5px 0px !important;display:block !important;height:100%; }
+
+.switch{cursor: pointer;display: inline-block;overflow: hidden;position: relative;width: 105px;height: 30px;vertical-align: middle;}
+
+.switch .background {background: url('../templates/quantumshop/utils/images/switch-background.png');display: block;position: absolute;top: 0;left: 0;width: 160px;height: 30px;}
+
+.switch .mask {background: url('../templates/quantumshop/utils/images/switch-mask.png');display: block;position: absolute;top: 0;left: 0;width: 105px;height: 30px;}
+
+
+    </style>
+	<script type="text/javascript" src="../templates/quantumshop/utils/admin-js.js"></script>]]>
+  </description>
+  <files>
+    <filename>component.php</filename>
+    <filename>error.php</filename>
+    <filename>favicon.ico</filename>
+    <filename>index.html</filename>
+    <filename>index.php</filename>
+	<filename>productsview.php</filename>
+    <filename>templateDetails.xml</filename>
+    <filename>template_thumbnail.png</filename>
+    <filename>template_preview.png</filename>
+    <folder>css/</folder>
+	<folder>fonts/</folder>
+    <folder>html/</folder>
+    <folder>images/</folder>
+    <folder>language/</folder>
+    <folder>js/</folder>
+    <folder>utils/</folder>
+  </files>
+  <positions>
+    <position>top-left-1</position>
+    <position>top-left-2</position>
+	<position>cart</position>
+	<position>welcome</position>
+	<position>top-header</position>
+	<position>info-line</position>
+    <position>position-7</position>
+    <position>bottom-left-1</position>
+    <position>bottom-left-2</position>
+    <position>top-right-1</position>
+    <position>top-right-2</position>
+    <position>position-6</position>
+    <position>bottom-right-1</position>
+    <position>bottom-right-2</position>
+    <position>builtin-slideshow</position>
+    <position>slideshow</position>
+	<position>header-left</position>
+	<position>header-right</position>
+	<position>search</position>
+    <position>quick-menu</position>
+	<position>quick-contact</position>
+	<position>tabs-1</position>
+    <position>top-long</position>
+    <position>intro-1</position>
+    <position>intro-2</position>
+    <position>intro-3</position>
+    <position>intro-4</position>
+    <position>intro-5</position>
+    <position>intro-6</position>
+    <position>top-1</position>
+    <position>top-2</position>
+    <position>top-3</position>
+    <position>top-4</position>
+    <position>top-5</position>
+    <position>top-6</position>
+    <position>top-7</position>
+    <position>top-8</position>
+    <position>top-9</position>
+    <position>top-10</position>
+    <position>top-11</position>
+    <position>top-12</position>
+    <position>top-a</position>
+    <position>top-b</position>
+    <position>top-c</position>
+    <position>top-d</position>
+    <position>loginform</position>
+	<position>position-5</position>
+	<position>position-4</position>
+    <position>position-3</position>
+	<position>position-2</position>
+    <position>position-1</position>
+    <position>position-0</position>
+    <position>bottom-long</position>
+    <position>bottom-1</position>
+    <position>bottom-2</position>
+    <position>bottom-3</position>
+    <position>bottom-4</position>
+    <position>bottom-5</position>
+    <position>bottom-6</position>
+    <position>bottom-7</position>
+    <position>bottom-8</position>
+    <position>bottom-9</position>
+    <position>bottom-10</position>
+    <position>bottom-11</position>
+    <position>bottom-12</position>
+    <position>bottom-a</position>
+    <position>bottom-b</position>
+    <position>bottom-c</position>
+    <position>bottom-d</position>
+    <position>footer</position>
+    <position>footer-left</position>
+    <position>footer-right</position>
+    <position>debug</position>
+  </positions>
+  <languages folder="language">
+    <language tag="en-GB">en-GB/en-GB.tpl_quantumshop.ini</language>
+    <language tag="en-GB">en-GB/en-GB.tpl_quantumshop.sys.ini</language>
+  </languages>
+	<config>
+		<fields name="params">
+
+			<fieldset name="sitename" label="TPL_QUANTUMSHOP_SITENAME_SETTINGS_TAB">
+				<field type="spacer" class="inline-help" label="TPL_QUANTUMSHOP_SITENAMEIMAGE_HELP" />
+				<field name="H1Title" type="textarea" filter="raw" class="input-text" label="TPL_QUANTUMSHOP_H1TITLE_LABEL" description="TPL_QUANTUMSHOP_H1TITLE_DESC" rows="2" cols="60" />
+				<field name="logoLinked" class="switch" type="checkbox" label="TPL_QUANTUMSHOP_LOGOLINKED_LABEL" description="TPL_QUANTUMSHOP_LOGOLINKED_DESC" value="true" />
+				<field name="H1TitleImgText" class="switch" type="checkbox" label="TPL_QUANTUMSHOP_H1TITLEIMGTEXT_LABEL" description="TPL_QUANTUMSHOP_H1TITLEIMGTEXT_DESC" value="true" />
+				<field name="sitenamecolor" type="color" default="#ffffff" label="TPL_QUANTUMSHOP_SITENAMECOLOR_LABEL" description="TPL_QUANTUMSHOP_SITENAMECOLOR_DESC" size="7" />
+				<field name="sitenamefontsize" class="input-text" type="text" default="40px" label="TPL_QUANTUMSHOP_SITENAMEFONTSIZE_LABEL" description="TPL_QUANTUMSHOP_SITENAMEFONTSIZE_DESC" size="10" />
+			
+				<field name="H1Titleimage" label="Built-in Site Name" type="media" directory="images" description="Selecr your site name image. Click Select button and upload your image to the server. Once your site name image is uploaded to the server you can select it on file list." />
+				
+				<field name="H1TitlePositionX" default="0" class="input-text" type="text" label="TPL_QUANTUMSHOP_H1TITLEPOSITIONX_LABEL" description="TPL_QUANTUMSHOP_H1TITLEPOSITIONX_DESC" size="10" />
+				<field name="H1TitlePositionY" default="32" class="input-text" type="text" label="TPL_QUANTUMSHOP_H1TITLEPOSITIONY_LABEL" description="TPL_QUANTUMSHOP_H1TITLEPOSITIONY_DESC" size="10" />
+				<field type="spacer" class="inline-help" label="TPL_QUANTUMSHOP_SLOGAN_HELP" />
+				<field name="H2Title" class="input-text" filter="raw" type="textarea" label="TPL_QUANTUMSHOP_SLOGAN_LABEL" description="TPL_QUANTUMSHOP_SLOGAN_DESC" rows="2" cols="60" />
+				<field name="slogancolor" type="color" default="#ffffff" label="TPL_QUANTUMSHOP_SLOGAN_COLOR_LABEL" description="TPL_QUANTUMSHOP_SLOGAN_COLOR_DESC" size="7" />
+				<field name="sloganfontsize" class="input-text" type="text" default="10px" label="TPL_QUANTUMSHOP_SLOGANFONTSIZE_LABEL" description="TPL_QUANTUMSHOP_SLOGANFONTSIZE_DESC" size="10" />
+				<field name="H2TitlePositionX" default="154" class="input-text" type="text" label="TPL_QUANTUMSHOP_H2TITLEPOSITIONX_LABEL" description="TPL_QUANTUMSHOP_H2TITLEPOSITIONX_DESC" size="10" />
+				<field name="H2TitlePositionY" default="51" class="input-text" type="text" label="TPL_QUANTUMSHOP_H2TITLEPOSITIONY_LABEL" description="TPL_QUANTUMSHOP_H2TITLEPOSITIONY_DESC" size="10" />
+				<field name="H2TitleImgText" class="switch" type="checkbox" label="TPL_QUANTUMSHOP_H2TITLEIMGTEXT_LABEL" description="TPL_QUANTUMSHOP_H2TITLEIMGTEXT_DESC" value="true" />			
+				<field name="H2Titleimage" label="TPL_QUANTUMSHOP_H2TITLEIMAGE_LABEL" type="media" directory="images" description="Selecr your slogan image. Click Select button and upload your image to the server. Once your site slogan image is uploaded to the server you can select it on file list." />
+			</fieldset>
+			
+			<fieldset name="themesettings" label="Theme Settings">
+
+		
+				<field type="spacer" class="inline-help" label="&lt;b&gt;Basic Settings&lt;/b&gt;" />
+				<field name="usejumptotop" class="switch" type="checkbox" label="Turn ON/OFF Jump to up button" description="Turn ON/OFF the jump to up button. When set to ON a button will appear on bottom right when you scroll window down." value="true" />
+
+				<field name="bodybackgroundimage" label="Background Image" type="media" directory="images" description="Select your background image. If empty simple background color chosen via color picker on Color Settings tab or built-in theme background color will be used instead." />
+				
+				
+				<field type="spacer" class="inline-help" label="&lt;b&gt;Top Pop Up Panel Setting&lt;/b&gt;" />
+				<field name="intropanelwidth" type="list" default="fluid" label="Panel Width" description="">
+					<option value="fixed">Fixed</option>
+					<option value="fluid">Fluid</option>
+				</field>
+				<field name="intropalenusecontentwidth" class="switch" type="checkbox" label="Use Handler Width" description="Select ON to use a handler width. Select OFF to use 100%. Usable only if Modules Width has been set to Fixed" value="true" />
+				
+				<field type="spacer" class="inline-help" label="&lt;b&gt;Cart Module Settings&lt;/b&gt;" />
+				<field name="carttype" type="list" default="sidepanel" label="Cart Module Display As" description="">
+					<option value="sidepanel">Side Panel</option>
+					<option value="popupwindow">Pop Up Window</option>
+				</field>
+
+
+				
+				<field type="spacer" class="inline-help" label="&lt;b&gt;Header Area Setting&lt;/b&gt;" />
+				<field name="topheight" type="text" class="input-text" label="TPL_QUANTUMSHOP_TOPHEIGHT_LABEL" default="115" description="TPL_QUANTUMSHOP_TOPHEIGHT_DESC" size="10" />
+				<field name="topwidth" type="text" class="input-text" label="TPL_QUANTUMSHOP_TOPWIDTH_LABEL" default="115" description="TPL_QUANTUMSHOP_TOPWIDTH_DESC" size="10" />
+				<field name="headerposition" type="list" default="fixed" label="Header Position" description="">
+					<option value="fixed">Fixed</option>
+					<option value="static">Static</option>
+					<option value="absolute">Absolute</option>
+				</field>
+				<field name="headerwidth" type="list" default="fluid" label="Header Width" description="">
+					<option value="fixed">Fixed</option>
+					<option value="fluid">Fluid</option>
+				</field>
+				<field name="headercontentwidth" class="switch" type="checkbox" label="Use Handler Width" description="Select ON to use a handler width. Select OFF to use 100%. Usable only if Modules Width has been set to Fixed" value="true" />
+
+				<field type="spacer" class="inline-help" label="&lt;b&gt;Breadcrumb Modules Area&lt;/b&gt;&lt;br&gt;Handler for position-2 modules position" />
+				<field name="breadcrumbwidth" type="list" default="fluid" label="Breadcrumb Modules Width" description="">
+					<option value="fixed">Fixed</option>
+					<option value="fluid">Fluid</option>
+				</field>
+				<field name="breadcrumbcontentwidth" class="switch" type="checkbox" label="Use Handler Width" description="Select ON to use a handler width. Select OFF to use 100%. Usable only if Modules Width has been set to Fixed" value="true" />
+				<field name="breadcrumbbg" label="Background Image" type="media" directory="images" description="Select an image for area background" />
+				<field name="breadcrumbbgtype" type="list" default="fluid" label="Use background image as:" description="">
+					<option value="static">Static Background Image</option>
+					<option value="parallax">Parallax Background Image</option>
+				</field>
+				<field name="breadcrumbparallaxbgratio" class="input-text" type="text" default="0.5" label="Parallax Background Ratio" description="Set parallax background image ratio" size="10" />
+				<field name="breadcrumbparallaxverticaloffset" class="input-text" type="text" default="150" label="Parallax Vertical Ratio" description="Set parallax vertical ratio" size="10" />
+				<field name="breadcrumbpbgheight" class="input-text" type="text" default="780px" label="Parallax Background Image Height" description="Set parallax background image height" size="10" />
+				<field name="breadcrumbmods" type="list" default="seperated" label="Modules Layout" description="Set Modules as plain or seperated">
+					<option value="plain">Plain</option>
+					<option value="seperated">Seperated</option>
+				</field>
+				<field name="breadcrumbalign" type="list" default="none" label="Align Modules" description="Align modules published to the same module position">
+					<option value="none">none</option>
+					<option value="center">Center</option>
+					<option value="stretch">Stretch</option>
+				</field>
+				
+				
+				<field type="spacer" class="inline-help" label="&lt;b&gt;Top Modules Area (Level 1)&lt;/b&gt;&lt;br&gt;Handler for top-1, top-2, top-3, top-4, top-5, top-6 modules positions" />
+				<field name="topmod1width" type="list" default="fluid" label="Top Modules Width" description="">
+					<option value="fixed">Fixed</option>
+					<option value="fluid">Fluid</option>
+				</field>
+				<field name="topmod1contentwidth" class="switch" type="checkbox" label="Use Handler Width" description="Select ON to use a handler width. Select OFF to use 100%. Usable only if Modules Width has been set to Fixed" value="true" />
+				<field name="topmod1bg" label="Background Image" type="media" directory="images" description="Select an image for area background" />
+				<field name="topmod1bgtype" type="list" default="fluid" label="Use background image as:" description="">
+					<option value="static">Static Background Image</option>
+					<option value="parallax">Parallax Background Image</option>
+				</field>
+				<field name="topmod1parallaxbgratio" class="input-text" type="text" default="0.5" label="Parallax Background Ratio" description="Set parallax background image ratio" size="10" />
+				<field name="topmod1parallaxverticaloffset" class="input-text" type="text" default="150" label="Parallax Vertical Ratio" description="Set parallax vertical ratio" size="10" />
+				<field name="topmod1pbgheight" class="input-text" type="text" default="780px" label="Parallax Background Image Height" description="Set parallax background image height" size="10" />
+				<field name="topmod1pos" type="list" default="seperated" label="Modules Positions Layout" description="Set Modules positions as plain or seperated">
+					<option value="plain">Plain</option>
+					<option value="seperated">Seperated</option>
+				</field>
+				<field name="topmod1mods" type="list" default="seperated" label="Modules Layout" description="Set Modules as plain or seperated">
+					<option value="plain">Plain</option>
+					<option value="seperated">Seperated</option>
+				</field>
+				<field name="topmod1align" type="list" default="none" label="Align Modules" description="Align modules published to the same module position">
+					<option value="none">none</option>
+					<option value="center">Center</option>
+					<option value="stretch">Stretch</option>
+				</field>
+				
+				
+				<field type="spacer" class="inline-help" label="&lt;b&gt;Top Modules Area (Level 2)&lt;/b&gt;&lt;br&gt;Handler for top-7, top-8, top-9, top-10, top-11, top-12 modules positions" />
+				<field name="topmod2width" type="list" default="fluid" label="Top Modules Width" description="">
+					<option value="fixed">Fixed</option>
+					<option value="fluid">Fluid</option>
+				</field>
+				<field name="topmod2contentwidth" class="switch" type="checkbox" label="Use Handler Width" description="Select ON to use a handler width. Select OFF to use 100%. Usable only if Modules Width has been set to Fixed" value="true" />
+				<field name="topmod2bg" label="Background Image" type="media" directory="images" description="Select an image for area background" />
+				<field name="topmod2bgtype" type="list" default="fluid" label="Use background image as:" description="">
+					<option value="static">Static Background Image</option>
+					<option value="parallax">Parallax Background Image</option>
+				</field>
+				<field name="topmod2parallaxbgratio" class="input-text" type="text" default="0.5" label="Parallax Background Ratio" description="Set parallax background image ratio" size="10" />
+				<field name="topmod2parallaxverticaloffset" class="input-text" type="text" default="150" label="Parallax Vertical Ratio" description="Set parallax vertical ratio" size="10" />
+				<field name="topmod2pbgheight" class="input-text" type="text" default="780px" label="Parallax Background Image Height" description="Set parallax background image height" size="10" />
+				<field name="topmod2pos" type="list" default="seperated" label="Modules Positions Layout" description="Set Modules positions as plain or seperated">
+					<option value="plain">Plain</option>
+					<option value="seperated">Seperated</option>
+				</field>
+				<field name="topmod2mods" type="list" default="seperated" label="Modules Layout" description="Set Modules as plain or seperated">
+					<option value="plain">Plain</option>
+					<option value="seperated">Seperated</option>
+				</field>
+				<field name="topmod2align" type="list" default="none" label="Align Modules" description="Align modules published to the same module position">
+					<option value="none">none</option>
+					<option value="center">Center</option>
+					<option value="stretch">Stretch</option>
+				</field>
+				
+				<field type="spacer" class="inline-help" label="&lt;b&gt;Top Long Modules Area&lt;/b&gt;&lt;br&gt;Handler for top-long modules position" />
+				<field name="toplongwidth" type="list" default="fluid" label="Top Long Modules Width" description="">
+					<option value="fixed">Fixed</option>
+					<option value="fluid">Fluid</option>
+				</field>
+				<field name="toplongcontentwidth" class="switch" type="checkbox" label="Use Handler Width" description="Select ON to use a handler width. Select OFF to use 100%. Usable only if Modules Width has been set to Fixed" value="true" />
+				<field name="toplongbg" label="Background Image" type="media" directory="images" description="Select an image for area background" />
+				<field name="toplongbgtype" type="list" default="fluid" label="Use background image as:" description="">
+					<option value="static">Static Background Image</option>
+					<option value="parallax">Parallax Background Image</option>
+				</field>
+				<field name="toplongparallaxbgratio" class="input-text" type="text" default="0.5" label="Parallax Background Ratio" description="Set parallax background image ratio" size="10" />
+				<field name="toplongparallaxverticaloffset" class="input-text" type="text" default="150" label="Parallax Vertical Ratio" description="Set parallax vertical ratio" size="10" />
+				<field name="toplongpbgheight" class="input-text" type="text" default="780px" label="Parallax Background Image Height" description="Set parallax background image height" size="10" />
+				<field name="toplongmods" type="list" default="seperated" label="Modules Layout" description="Set Modules as plain or seperated">
+					<option value="plain">Plain</option>
+					<option value="seperated">Seperated</option>
+				</field>
+				<field name="toplongalign" type="list" default="none" label="Align Modules" description="Align modules published to the same module position">
+					<option value="none">none</option>
+					<option value="center">Center</option>
+					<option value="stretch">Stretch</option>
+				</field>
+				
+				
+				<field type="spacer" class="inline-help" label="&lt;b&gt;Tabs Modules Area&lt;/b&gt;&lt;br&gt;Handler for tabs-1 modules position where you can publish modules visible as tabs" />
+				<field name="tabswidth" type="list" default="fluid" label="Tabs Modules Width" description="">
+					<option value="fixed">Fixed</option>
+					<option value="fluid">Fluid</option>
+				</field>
+				<field name="tabscontentwidth" class="switch" type="checkbox" label="Use Handler Width" description="Select ON to use a handler width. Select OFF to use 100%. Usable only if Modules Width has been set to Fixed" value="true" />
+				<field name="tabsbg" label="Background Image" type="media" directory="images" description="Select an image for area background" />
+				<field name="tabsbgtype" type="list" default="fluid" label="Use background image as:" description="">
+					<option value="static">Static Background Image</option>
+					<option value="parallax">Parallax Background Image</option>
+				</field>
+				<field name="tabsparallaxbgratio" class="input-text" type="text" default="0.5" label="Parallax Background Ratio" description="Set parallax background image ratio" size="10" />
+				<field name="tabsparallaxverticaloffset" class="input-text" type="text" default="150" label="Parallax Vertical Ratio" description="Set parallax vertical ratio" size="10" />
+				<field name="tabspbgheight" class="input-text" type="text" default="780px" label="Parallax Background Image Height" description="Set parallax background image height" size="10" />
+				<field name="tabsmods" type="list" default="seperated" label="Modules Layout" description="Set Modules as plain or seperated">
+					<option value="plain">Plain</option>
+					<option value="seperated">Seperated</option>
+				</field>
+				<field name="tabsalign" type="list" default="none" label="Align Modules" description="Align modules published to the same module position">
+					<option value="none">none</option>
+					<option value="center">Center</option>
+					<option value="stretch">Stretch</option>
+				</field>
+				<field name="tabsanim" class="input-text" type="list" default="off" label="Use Animation" description="">
+					<option value="off">Off</option>
+					<option value="moveleft">Move Left</option>
+					<option value="moveright">Move Right</option>
+					<option value="moveup">Move Up</option>
+					<option value="movedown">Move Down</option>
+				</field>
+				
+				<field type="spacer" class="inline-help" label="&lt;b&gt;Content Area&lt;/b&gt;&lt;br&gt;Handler for content component and content area modules" />
+				<field name="contentwidth" type="list" default="fluid" label="Tabs Modules Width" description="">
+					<option value="fixed">Fixed</option>
+					<option value="fluid">Fluid</option>
+				</field>
+				<field name="contentcontentwidth" class="switch" type="checkbox" label="Use Handler Width" description="Select ON to use a handler width. Select OFF to use 100%. Usable only if Modules Width has been set to Fixed" value="true" />
+				
+				
+				<field type="spacer" class="inline-help" label="&lt;b&gt;Testimonials Modules Area&lt;/b&gt;&lt;br&gt;Handler for position-3 modules position" />
+				<field name="testimonialswidth" type="list" default="fluid" label="Testimonials Modules Width" description="">
+					<option value="fixed">Fixed</option>
+					<option value="fluid">Fluid</option>
+				</field>
+				<field name="testimonialscontentwidth" class="switch" type="checkbox" label="Use Handler Width" description="Select ON to use a handler width. Select OFF to use 100%. Usable only if Modules Width has been set to Fixed" value="true" />
+				<field name="testimonialsbg" label="Background Image" type="media" directory="images" description="Select an image for area background" />
+				<field name="testimonialsbgtype" type="list" default="fluid" label="Use background image as:" description="">
+					<option value="static">Static Background Image</option>
+					<option value="parallax">Parallax Background Image</option>
+				</field>
+				<field name="testimonialsparallaxbgratio" class="input-text" type="text" default="0.5" label="Parallax Background Ratio" description="Set parallax background image ratio" size="10" />
+				<field name="testimonialsparallaxverticaloffset" class="input-text" type="text" default="150" label="Parallax Vertical Ratio" description="Set parallax vertical ratio" size="10" />
+				<field name="testimonialspbgheight" class="input-text" type="text" default="780px" label="Parallax Background Image Height" description="Set parallax background image height" size="10" />
+				<field name="testimonialsanim" class="input-text" type="list" default="off" label="Use Animation" description="">
+					<option value="off">Off</option>
+					<option value="moveleft">Move Left</option>
+					<option value="moveright">Move Right</option>
+					<option value="moveup">Move Up</option>
+					<option value="movedown">Move Down</option>
+				</field>
+
+				<field type="spacer" class="inline-help" label="&lt;b&gt;Bottom Long Modules Area (Level 1)&lt;/b&gt;&lt;br&gt;Handler for bottom-long modules position" />
+				<field name="bottomlongwidth" type="list" default="fluid" label="Bottom Long Modules Width" description="">
+					<option value="fixed">Fixed</option>
+					<option value="fluid">Fluid</option>
+				</field>
+				<field name="bottomlongcontentwidth" class="switch" type="checkbox" label="Use Handler Width" description="Select ON to use a handler width. Select OFF to use 100%. Usable only if Modules Width has been set to Fixed" value="true" />
+				<field name="bottomlongbg" label="Background Image" type="media" directory="images" description="Select an image for area background" />
+				<field name="bottomlongbgtype" type="list" default="fluid" label="Use background image as:" description="">
+					<option value="static">Static Background Image</option>
+					<option value="parallax">Parallax Background Image</option>
+				</field>
+				<field name="bottomlongparallaxbgratio" class="input-text" type="text" default="0.5" label="Parallax Background Ratio" description="Set parallax background image ratio" size="10" />
+				<field name="bottomlongparallaxverticaloffset" class="input-text" type="text" default="150" label="Parallax Vertical Ratio" description="Set parallax vertical ratio" size="10" />
+				<field name="bottomlongpbgheight" class="input-text" type="text" default="780px" label="Parallax Background Image Height" description="Set parallax background image height" size="10" />
+				<field name="bottomlongmods" type="list" default="seperated" label="Modules Layout" description="Set Modules as plain or seperated">
+					<option value="plain">Plain</option>
+					<option value="seperated">Seperated</option>
+				</field>
+				<field name="bottomlongalign" type="list" default="none" label="Align Modules" description="Align modules published to the same module position">
+					<option value="none">none</option>
+					<option value="center">Center</option>
+					<option value="stretch">Stretch</option>
+				</field>
+				
+				<field type="spacer" class="inline-help" label="&lt;b&gt;Bottom Modules Area (Level 1)&lt;/b&gt;&lt;br&gt;Handler for bottom-1, bottom-2, bottom-3, bottom-4, bottom-5, bottom-6 modules positions" />
+				<field name="botmoduleswidth" type="list" default="fluid" label="Bottom Modules Width" description="">
+					<option value="fixed">Fixed</option>
+					<option value="fluid">Fluid</option>
+				</field>
+				<field name="botmodulescontentwidth" class="switch" type="checkbox" label="Use Handler Width" description="Select ON to use a handler width. Select OFF to use 100%. Usable only if Modules Width has been set to Fixed" value="true" />
+				<field name="botmodulesbg" label="Background Image" type="media" directory="images" description="Select an image for area background" />
+				<field name="botmodulesbgtype" type="list" default="fluid" label="Use background image as:" description="">
+					<option value="static">Static Background Image</option>
+					<option value="parallax">Parallax Background Image</option>
+				</field>
+				<field name="botmodulesparallaxbgratio" class="input-text" type="text" default="0.5" label="Parallax Background Ratio" description="Set parallax background image ratio" size="10" />
+				<field name="botmodulesparallaxverticaloffset" class="input-text" type="text" default="150" label="Parallax Vertical Ratio" description="Set parallax vertical ratio" size="10" />
+				<field name="botmodulespbgheight" class="input-text" type="text" default="780px" label="Parallax Background Image Height" description="Set parallax background image height" size="10" />
+				<field name="botmodulespos" type="list" default="seperated" label="Modules Positions Layout" description="Set Modules positions as plain or seperated">
+					<option value="plain">Plain</option>
+					<option value="seperated">Seperated</option>
+				</field>
+				<field name="botmodulesmods" type="list" default="seperated" label="Modules Layout" description="Set Modules as plain or seperated">
+					<option value="plain">Plain</option>
+					<option value="seperated">Seperated</option>
+				</field>
+				<field name="botmodulesalign" type="list" default="none" label="Align Modules" description="Align modules published to the same module position">
+					<option value="none">none</option>
+					<option value="center">Center</option>
+					<option value="stretch">Stretch</option>
+				</field>
+				
+				<field type="spacer" class="inline-help" label="&lt;b&gt;Bottom Long Modules Area (Level 2)&lt;/b&gt;&lt;br&gt;Handler for position-4 modules position" />
+				<field name="bottomlong2width" type="list" default="fluid" label="Bottom Long Modules Width" description="">
+					<option value="fixed">Fixed</option>
+					<option value="fluid">Fluid</option>
+				</field>
+				<field name="bottomlong2contentwidth" class="switch" type="checkbox" label="Use Handler Width" description="Select ON to use a handler width. Select OFF to use 100%. Usable only if Modules Width has been set to Fixed" value="true" />
+				<field name="bottomlong2bg" label="Background Image" type="media" directory="images" description="Select an image for area background" />
+				<field name="bottomlong2bgtype" type="list" default="fluid" label="Use background image as:" description="">
+					<option value="static">Static Background Image</option>
+					<option value="parallax">Parallax Background Image</option>
+				</field>
+				<field name="bottomlong2parallaxbgratio" class="input-text" type="text" default="0.5" label="Parallax Background Ratio" description="Set parallax background image ratio" size="10" />
+				<field name="bottomlong2parallaxverticaloffset" class="input-text" type="text" default="150" label="Parallax Vertical Ratio" description="Set parallax vertical ratio" size="10" />
+				<field name="bottomlong2pbgheight" class="input-text" type="text" default="780px" label="Parallax Background Image Height" description="Set parallax background image height" size="10" />
+				<field name="bottomlong2mods" type="list" default="seperated" label="Modules Layout" description="Set Modules as plain or seperated">
+					<option value="plain">Plain</option>
+					<option value="seperated">Seperated</option>
+				</field>
+				<field name="bottomlong2align" type="list" default="none" label="Align Modules" description="Align modules published to the same module position">
+					<option value="none">none</option>
+					<option value="center">Center</option>
+					<option value="stretch">Stretch</option>
+				</field>
+				
+				<field type="spacer" class="inline-help" label="&lt;b&gt;Bottom Long Modules Area (Level 3)&lt;/b&gt;&lt;br&gt;Handler for position-4 modules position" />
+				<field name="bottomlong3width" type="list" default="fluid" label="Bottom Long Modules Width" description="">
+					<option value="fixed">Fixed</option>
+					<option value="fluid">Fluid</option>
+				</field>
+				<field name="bottomlong3contentwidth" class="switch" type="checkbox" label="Use Handler Width" description="Select ON to use a handler width. Select OFF to use 100%. Usable only if Modules Width has been set to Fixed" value="true" />
+				<field name="bottomlong3bg" label="Background Image" type="media" directory="images" description="Select an image for area background" />
+				<field name="bottomlong3bgtype" type="list" default="fluid" label="Use background image as:" description="">
+					<option value="static">Static Background Image</option>
+					<option value="parallax">Parallax Background Image</option>
+				</field>
+				<field name="bottomlong3parallaxbgratio" class="input-text" type="text" default="0.5" label="Parallax Background Ratio" description="Set parallax background image ratio" size="10" />
+				<field name="bottomlong3parallaxverticaloffset" class="input-text" type="text" default="150" label="Parallax Vertical Ratio" description="Set parallax vertical ratio" size="10" />
+				<field name="bottomlong3pbgheight" class="input-text" type="text" default="780px" label="Parallax Background Image Height" description="Set parallax background image height" size="10" />
+				<field name="bottomlong3mods" type="list" default="seperated" label="Modules Layout" description="Set Modules as plain or seperated">
+					<option value="plain">Plain</option>
+					<option value="seperated">Seperated</option>
+				</field>
+				<field name="bottomlong3align" type="list" default="none" label="Align Modules" description="Align modules published to the same module position">
+					<option value="none">none</option>
+					<option value="center">Center</option>
+					<option value="stretch">Stretch</option>
+				</field>
+				
+				<field type="spacer" class="inline-help" label="&lt;b&gt;Bottom Modules Area (Level 2)&lt;/b&gt;&lt;br&gt;Handler for bottom-7, bottom-8, bottom-9, bottom-10, bottom-11, bottom-12 modules positions" />
+				<field name="bottombgwidth" type="list" default="fluid" label="Bottom Modules Width" description="">
+					<option value="fixed">Fixed</option>
+					<option value="fluid">Fluid</option>
+				</field>
+				<field name="bottombgcontentwidth" class="switch" type="checkbox" label="Use Handler Width" description="Select ON to use a handler width. Select OFF to use 100%. Usable only if Modules Width has been set to Fixed" value="true" />
+				<field name="bottombgbg" label="Background Image" type="media" directory="images" description="Select an image for area background" />
+				<field name="bottombgbgtype" type="list" default="fluid" label="Use background image as:" description="">
+					<option value="static">Static Background Image</option>
+					<option value="parallax">Parallax Background Image</option>
+				</field>
+				<field name="bottombgparallaxbgratio" class="input-text" type="text" default="0.5" label="Parallax Background Ratio" description="Set parallax background image ratio" size="10" />
+				<field name="bottombgparallaxverticaloffset" class="input-text" type="text" default="150" label="Parallax Vertical Ratio" description="Set parallax vertical ratio" size="10" />
+				<field name="bottombgpbgheight" class="input-text" type="text" default="780px" label="Parallax Background Image Height" description="Set parallax background image height" size="10" />
+				<field name="bottombgpos" type="list" default="seperated" label="Modules Positions Layout" description="Set Modules positions as plain or seperated">
+					<option value="plain">Plain</option>
+					<option value="seperated">Seperated</option>
+				</field>
+				<field name="bottombgmods" type="list" default="seperated" label="Modules Layout" description="Set Modules as plain or seperated">
+					<option value="plain">Plain</option>
+					<option value="seperated">Seperated</option>
+				</field>
+				<field name="bottombgalign" type="list" default="none" label="Align Modules" description="Align modules published to the same module position">
+					<option value="none">none</option>
+					<option value="center">Center</option>
+					<option value="stretch">Stretch</option>
+				</field>
+				
+				
+				<field type="spacer" class="inline-help" label="&lt;b&gt;Footer Modules Area&lt;/b&gt;&lt;br&gt;Handler for footer, footer-left and footer-right modules position" />
+				<field name="footerwidth" type="list" default="fluid" label="Footer Modules Width" description="">
+					<option value="fixed">Fixed</option>
+					<option value="fluid">Fluid</option>
+				</field>
+				<field name="footercontentwidth" class="switch" type="checkbox" label="Use Handler Width" description="Select ON to use a handler width. Select OFF to use 100%. Usable only if Modules Width has been set to Fixed" value="true" />
+				<field name="footerbg" label="Background Image" type="media" directory="images" description="Select an image for area background" />
+				<field name="footerbgtype" type="list" default="fluid" label="Use background image as:" description="">
+					<option value="static">Static Background Image</option>
+					<option value="parallax">Parallax Background Image</option>
+				</field>
+				<field name="footerparallaxbgratio" class="input-text" type="text" default="0.5" label="Parallax Background Ratio" description="Set parallax background image ratio" size="10" />
+				<field name="footerparallaxverticaloffset" class="input-text" type="text" default="150" label="Parallax Vertical Ratio" description="Set parallax vertical ratio" size="10" />
+				<field name="footerpbgheight" class="input-text" type="text" default="780px" label="Parallax Background Image Height" description="Set parallax background image height" size="10" />
+				<field name="footermods" type="list" default="seperated" label="Modules Layout" description="Set Modules as plain or seperated">
+					<option value="plain">Plain</option>
+					<option value="seperated">Seperated</option>
+				</field>
+				<field name="footeralign" type="list" default="none" label="Align Modules" description="Align modules published to the same module position">
+					<option value="none">none</option>
+					<option value="center">Center</option>
+					<option value="stretch">Stretch</option>
+				</field>
+
+			</fieldset>
+			
+			<fieldset name="basics" label="TPL_QUANTUMSHOP_BASIC_SETTINGS_TAB">
+				<field type="spacer" class="inline-help" label="TPL_QUANTUMSHOP_WELCOME_LABEL" />
+				<field name="contentfontsize" class="input-text" type="text" default="14px" label="TPL_QUANTUMSHOP_CONTENTFONTSIZE_LABEL" description="TPL_QUANTUMSHOP_CONTENTFONTSIZE_DESC" size="10" />
+				<field name="fontweight" class="input-text" type="list" default="300" label="Default Font Weight" description="Select default font weight for your website.Please note that not all weight values may be supported by selected font family. ">
+					<option value="100">Thin</option>
+					<option value="200">Extra Light</option>
+					<option value="300">Light</option>
+					<option value="400">Normal</option>
+					<option value="500">Medium</option>
+					<option value="600">Semi Bold</option>
+					<option value="700">Bold</option>
+					<option value="800">Extra Bold</option>
+					<option value="900">Black</option>
+				</field>
+				
+				<field name="fontfamily" class="input-text" type="list" default="4" label="Default Font Family" description="Select serif(Web Safe Font), sans-serif(Web Safe Font), monospace(Web Safe Font) or predefined Google fonts">
+					<option value="1">Georgia, serif</option>
+					<option value="2">Palatino Linotype, Book Antiqua, Palatino, serif</option>
+					<option value="3">Times New Roman, Times, serif</option>
+					<option value="4">Arial, Helvetica, sans-serif</option>
+					<option value="5">Arial Black, Gadget, sans-serif</option>
+					<option value="6">Comic Sans MS, cursive, sans-serif</option>
+					<option value="7">Impact, Charcoal, sans-serif</option>
+					<option value="8">Lucida Sans Unicode, Lucida Grande, sans-serif</option>
+					<option value="9">Tahoma, Geneva, sans-serif</option>
+					<option value="10">Trebuchet MS, Helvetica, sans-serif</option>
+					<option value="11">Verdana, Geneva, sans-serif</option>
+					<option value="12">Courier New, Courier, monospace</option>
+					<option value="13">Lucida Console, Monaco, monospace</option>
+					
+					<option value="g1">Google Open Sans</option>
+					<option value="g2">Google Roboto</option>
+					<option value="g3">Google Lato</option>
+					<option value="g4">Google Oswald</option>
+					<option value="g5">Google PT Sans</option>
+					<option value="g6">Google Droid Sans</option>
+					<option value="g7">Google Droid Serif</option>
+					<option value="g8">Google Ubuntu</option>
+					<option value="g9">Google Raleway</option>
+				</field>
+				<field name="addcharacterset" class="input-text" type="list" default="0" label="Select Character Set" description="By default Default Font Family option using only Latin character set. Select this option if you need an additional character set. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;IMPORTANT!&lt;/b&gt; Please make sure that selected font support your character set. More informations can be found at http://www.google.com/fonts/">
+					<option value="0">None</option>
+					<option value="latin-ext">Latin Extended (Open Sans, Roboto, Lato, Oswald, Ubuntu)</option>
+					<option value="greek">Greek (Open Sans, Roboto, Ubuntu)</option>
+					<option value="greek-ext">Greek Extended (Open Sans, Roboto, Ubuntu)</option>
+					<option value="vietnamese">Vietnamese (Open Sans, Roboto)</option>
+					<option value="cyrillic">Cyrillic (Open Sans, Roboto, PT Sans, Ubuntu)</option>
+					<option value="cyrillic-ext">Cyrillic Extended (Open Sans, Roboto, PT Sans, Ubuntu)</option>
+				</field>
+				
+				<field type="spacer" class="inline-help" label="&lt;b&gt;Advanced Font Settings&lt;/b&gt;&lt;br/&gt;To use more adjusted Google fonts for your website please use fields below.&lt;br/&gt;WARNING! Using many of Google fonts styles may take an impact on your web site load time." />
+				
+				<field name="AdditionalGFontON" class="switch" type="checkbox" label="Use additional Google Fonts" description="Turn this option ON to add Google fonts for your website." value="true" />
+				
+				<field name="AdditionalGFontFamily" class="input-text" type="text" default="Roboto Condensed" label="Type Google Font Family Name" description="Type here a name of the Google font you want to use" size="80" />
+				
+				<field name="AdditionalGFontString" class="input-text" type="textarea" filter="raw" default="400,300,300italic,400italic,700,700italic:latin,latin-ext" label="Google Font Family Settings" description="Type here your additional Google Fonts settings. See below for more informations about settings up an additional Google Fonts fonts." rows="6" cols="80" />
+				
+				<field name="AdditionalGFontTagsAffected" class="input-text" type="textarea" filter="raw" default="h1, h2, h3, h4, h5, h6, .camera_caption, .moduletable_banner" label="Tags/CSS Classes affected" description="Type here tags and CSS classes you want to use an additional Google Fonts for." rows="6" cols="80" />
+				<field name="OverrideDefaultSettings" class="switch" type="checkbox" label="Override default settings" description="Turn this option ON if you want to override the default font settings and use only Google Fonts settings specified in Google Font Family Settings field" value="true" />
+				
+				<field type="spacer" class="inline-help" label="&lt;b&gt;How to customize Google Fonts&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;In fields above you can secify an additional Google Fonts you want to use at your website. You can also set if you want to use your own Google Fonts settings only.&lt;br/&gt;&lt;br/&gt;
+				&lt;b&gt;Type Google Font Family Name&lt;/b&gt; - in this field type a name of a Google font you want to use. The name must to be typed as same as specified at Google Fonts website, for example: &lt;i&gt;Roboto Condensed&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;
+				&lt;b&gt;Google Font Family Settings&lt;/b&gt; - here you need to provide a font style and character set. For example, to could use latin and greek character set and light,normal and bold font weight type folowing: &lt;br/&gt;&lt;br/&gt;
+				300,400,700:latin,greek&lt;br/&gt;&lt;br/&gt;
+				To use normal/normal italic and bold/bold italic type following:&lt;br/&gt;&lt;br/&gt;
+				400,400italic,700,700italic:latin&lt;br/&gt;&lt;br/&gt;
+				Tags/CSS Classes affected - in this field simply provide a selectors you want to use with a specified font&lt;br/&gt;&lt;br/&gt;
+				For more informations about the Google Fonts please visit &lt;a href='http://www.google.com/fonts' target='blank'&gt;www.google.com/fonts&lt;/a&gt;
+				" />
+				
+			</fieldset>
+			
+			<fieldset name="communitysettings" label="TPL_QUANTUMSHOP_COMMUNITYSETTINGS">
+				<field type="spacer" class="inline-help" label="TPL_QUANTUMSHOP_COMMUNITYSETTINGS_HELP" />
+				
+				<field name="sociallabel" type="textarea" filter="raw" class="input-text" label="Community Links Label" description="Type here the text you want to display next to the icons" rows="2" cols="60" />
+		
+				
+				<field name="twitter" class="input-text" type="text" label="TPL_QUANTUMSHOP_TWITTER_LABEL" description="TPL_QUANTUMSHOP_TWITTER_DESC" size="80" />
+				<field name="twitterON" class="switch" type="checkbox" label="TPL_QUANTUMSHOP_TWITTERON_LABEL" description="TPL_QUANTUMSHOP_TWITTERON_DESC" value="true" />
+				<field name="gplus" class="input-text" type="text" label="Google Plus" description="Type your Google Plus URL" size="80" />
+				<field name="gplusON" class="switch" type="checkbox" label="Google Plus ON/OFF" description="Turn ON/OFF Google Plus" value="true" />
+				<field name="facebook" class="input-text" type="text" label="Facebook" description="Type your Facebook URL" size="80" />
+				<field name="facebookON" class="switch" type="checkbox" label="Facebook ON/OFF" description="Turn ON/OFF Facebook" value="true" />
+				<field name="RSS" class="input-text" type="text" label="RSS" description="Type your RSS URL" size="80" />
+				<field name="RSSON" class="switch" type="checkbox" label="RSS ON/OFF" description="Turn ON/OFF RSS" value="true" />
+				<field name="linkedin" class="input-text" type="text" label="Linkedin" description="Type your Linkedin URL" size="80" />
+				<field name="linkedinON" class="switch" type="checkbox" label="Linkedin ON/OFF" description="Turn ON/OFF Linkedin" value="true" />
+				<field name="youtube" class="input-text" type="text" label="YouTube" description="Type your YouTube URL" size="80" />
+				<field name="youtubeON" class="switch" type="checkbox" label="YouTube ON/OFF" description="Turn ON/OFF YouTube" value="true" />
+				<field name="vimeo" class="input-text" type="text" label="Vimeo" description="Type your Vimeo URL" size="80" />
+				<field name="vimeoON" class="switch" type="checkbox" label="Vimeo ON/OFF" description="Turn ON/OFF Vimeo" value="true" />
+				<field name="stumbleupon" class="input-text" type="text" label="Stumbleupon" description="Type your Stumbleupon URL" size="80" />
+				<field name="stumbleuponON" class="switch" type="checkbox" label="Stumbleupon ON/OFF" description="Turn ON/OFF Stumbleupon" value="true" />
+				<field name="digg" class="input-text" type="text" label="DIGG" description="Type your DIGG URL" size="80" />
+				<field name="diggON" class="switch" type="checkbox" label="DIGG ON/OFF" description="Turn ON/OFF DIGG" value="true" />
+				<field name="blogger" class="input-text" type="text" label="TPL_QUANTUMSHOP_BLOGGER_LABEL" description="TPL_QUANTUMSHOP_BLOGGER_DESC" size="80" />
+				<field name="bloggerON" class="switch" type="checkbox" label="Blogger ON/OFF" description="Turn ON/OFF Blogger" value="true" />
+				<field name="pinterest" class="input-text" type="text" label="Pinterest" description="Type your Pinterest URL" size="80" />
+				<field name="pinterestON" class="switch" type="checkbox" label="Pinterest ON/OFF" description="Turn ON/OFF Pinterest" value="true" />
+				<field name="instagram" class="input-text" type="text" label="Instagram" description="Type your Instagram URL" size="80" />
+				<field name="instagramON" class="switch" type="checkbox" label="Instagram ON/OFF" description="Turn ON/OFF Instagram" value="true" />
+				
+				<field type="spacer" class="inline-help" label="Select Custom Social Icons" />
+				
+				<field name="customSoc1" class="input-text" type="text" label="Custom Icon 1 URL" description="Type an URL to your social community profile" size="80" />
+				<field name="customSoc1Icon" class="input-text" type="list" default="" label="Custom Icon 1 - Select Icon" description="">
+					<option value="socicon-modelmayhem">modelmayhem</option><option value="socicon-mixcloud">mixcloud</option><option value="socicon-swarm">swarm</option><option value="socicon-yammer">yammer</option><option value="socicon-ello">ello</option><option value="socicon-stackoverflow">stackoverflow</option><option value="socicon-persona">persona</option><option value="socicon-triplej">triplej</option><option value="socicon-houzz">houzz</option><option value="socicon-odnoklassniki">odnoklassniki</option><option value="socicon-airbnb">airbnb</option><option value="socicon-periscope">periscope</option><option value="socicon-coderwall">coderwall</option><option value="socicon-tripadvisor">tripadvisor</option><option value="socicon-appnet">appnet</option><option value="socicon-goodreads">goodreads</option><option value="socicon-tripit">tripit</option><option value="socicon-lanyrd">lanyrd</option><option value="socicon-slideshare">slideshare</option><option value="socicon-buffer">buffer</option><option value="socicon-disqus">disqus</option><option value="socicon-vkontakte">vkontakte</option><option value="socicon-whatsapp">whatsapp</option><option value="socicon-patreon">patreon</option><option value="socicon-storehouse">storehouse</option><option value="socicon-pocket">pocket</option><option value="socicon-mail">mail</option><option value="socicon-technorati">technorati</option><option value="socicon-reddit">reddit</option><option value="socicon-dribbble">dribbble</option><option value="socicon-behance">behance</option><option value="socicon-delicious">delicious</option><option value="socicon-deviantart">deviantart</option><option value="socicon-forrst">forrst</option><option value="socicon-play">play</option><option value="socicon-zerply">zerply</option><option value="socicon-wikipedia">wikipedia</option><option value="socicon-flattr">flattr</option><option value="socicon-github">github</option><option value="socicon-renren">renren</option><option value="socicon-friendfeed">friendfeed</option><option value="socicon-newsvine">newsvine</option><option value="socicon-identica">identica</option><option value="socicon-bebo">bebo</option><option value="socicon-zynga">zynga</option><option value="socicon-steam">steam</option><option value="socicon-xbox">xbox</option><option value="socicon-qq">qq</option><option value="socicon-douban">douban</option><option value="socicon-meetup">meetup</option><option value="socicon-android">android</option><option value="socicon-snapchat">snapchat</option><option value="socicon-foursquare">foursquare</option><option value="socicon-skype">skype</option><option value="socicon-yelp">yelp</option><option value="socicon-feedburner">feedburner</option><option value="socicon-viadeo">viadeo</option><option value="socicon-xing">xing</option><option value="socicon-myspace">myspace</option><option value="socicon-soundcloud">soundcloud</option><option value="socicon-spotify">spotify</option><option value="socicon-grooveshark">grooveshark</option><option value="socicon-lastfm">lastfm</option><option value="socicon-dailymotion">dailymotion</option><option value="socicon-vine">vine</option><option value="socicon-flickr">flickr</option><option value="socicon-500px">500px</option><option value="socicon-tumblr">tumblr</option><option value="socicon-twitch">twitch</option><option value="socicon-8tracks">8tracks</option><option value="socicon-icq">icq</option><option value="socicon-smugmug">smugmug</option><option value="socicon-ravelry">ravelry</option><option value="socicon-weibo">weibo</option><option value="socicon-baidu">baidu</option><option value="socicon-angellist">angellist</option><option value="socicon-imdb">imdb</option><option value="socicon-stayfriends">stayfriends</option><option value="socicon-residentadvisor">residentadvisor</option><option value="socicon-google">google</option><option value="socicon-sharethis">sharethis</option><option value="socicon-bandcamp">bandcamp</option><option value="socicon-itunes">itunes</option><option value="socicon-deezer">deezer</option><option value="socicon-medium">medium</option><option value="socicon-telegram">telegram</option><option value="socicon-openid">openid</option><option value="socicon-amplement">amplement</option><option value="socicon-viber">viber</option><option value="socicon-zomato">zomato</option>			
+				</field>
+				<field name="customSoc1ON" class="switch" type="checkbox" label="Custom Icon 1 ON/OFF" description="Custom Icon 1 ON/OFF" value="true" />
+				
+				<field name="customSoc2" class="input-text" type="text" label="Custom Icon 2 URL" description="Type an URL to your social community profile" size="80" />
+				<field name="customSoc2Icon" class="input-text" type="list" default="" label="Custom Icon 2 - Select Icon" description="">
+					<option value="socicon-modelmayhem">modelmayhem</option><option value="socicon-mixcloud">mixcloud</option><option value="socicon-swarm">swarm</option><option value="socicon-yammer">yammer</option><option value="socicon-ello">ello</option><option value="socicon-stackoverflow">stackoverflow</option><option value="socicon-persona">persona</option><option value="socicon-triplej">triplej</option><option value="socicon-houzz">houzz</option><option value="socicon-odnoklassniki">odnoklassniki</option><option value="socicon-airbnb">airbnb</option><option value="socicon-periscope">periscope</option><option value="socicon-coderwall">coderwall</option><option value="socicon-tripadvisor">tripadvisor</option><option value="socicon-appnet">appnet</option><option value="socicon-goodreads">goodreads</option><option value="socicon-tripit">tripit</option><option value="socicon-lanyrd">lanyrd</option><option value="socicon-slideshare">slideshare</option><option value="socicon-buffer">buffer</option><option value="socicon-disqus">disqus</option><option value="socicon-vkontakte">vkontakte</option><option value="socicon-whatsapp">whatsapp</option><option value="socicon-patreon">patreon</option><option value="socicon-storehouse">storehouse</option><option value="socicon-pocket">pocket</option><option value="socicon-mail">mail</option><option value="socicon-technorati">technorati</option><option value="socicon-reddit">reddit</option><option value="socicon-dribbble">dribbble</option><option value="socicon-behance">behance</option><option value="socicon-delicious">delicious</option><option value="socicon-deviantart">deviantart</option><option value="socicon-forrst">forrst</option><option value="socicon-play">play</option><option value="socicon-zerply">zerply</option><option value="socicon-wikipedia">wikipedia</option><option value="socicon-flattr">flattr</option><option value="socicon-github">github</option><option value="socicon-renren">renren</option><option value="socicon-friendfeed">friendfeed</option><option value="socicon-newsvine">newsvine</option><option value="socicon-identica">identica</option><option value="socicon-bebo">bebo</option><option value="socicon-zynga">zynga</option><option value="socicon-steam">steam</option><option value="socicon-xbox">xbox</option><option value="socicon-qq">qq</option><option value="socicon-douban">douban</option><option value="socicon-meetup">meetup</option><option value="socicon-android">android</option><option value="socicon-snapchat">snapchat</option><option value="socicon-foursquare">foursquare</option><option value="socicon-skype">skype</option><option value="socicon-yelp">yelp</option><option value="socicon-feedburner">feedburner</option><option value="socicon-viadeo">viadeo</option><option value="socicon-xing">xing</option><option value="socicon-myspace">myspace</option><option value="socicon-soundcloud">soundcloud</option><option value="socicon-spotify">spotify</option><option value="socicon-grooveshark">grooveshark</option><option value="socicon-lastfm">lastfm</option><option value="socicon-dailymotion">dailymotion</option><option value="socicon-vine">vine</option><option value="socicon-flickr">flickr</option><option value="socicon-500px">500px</option><option value="socicon-tumblr">tumblr</option><option value="socicon-twitch">twitch</option><option value="socicon-8tracks">8tracks</option><option value="socicon-icq">icq</option><option value="socicon-smugmug">smugmug</option><option value="socicon-ravelry">ravelry</option><option value="socicon-weibo">weibo</option><option value="socicon-baidu">baidu</option><option value="socicon-angellist">angellist</option><option value="socicon-imdb">imdb</option><option value="socicon-stayfriends">stayfriends</option><option value="socicon-residentadvisor">residentadvisor</option><option value="socicon-google">google</option><option value="socicon-sharethis">sharethis</option><option value="socicon-bandcamp">bandcamp</option><option value="socicon-itunes">itunes</option><option value="socicon-deezer">deezer</option><option value="socicon-medium">medium</option><option value="socicon-telegram">telegram</option><option value="socicon-openid">openid</option><option value="socicon-amplement">amplement</option><option value="socicon-viber">viber</option><option value="socicon-zomato">zomato</option>			
+				</field>
+
+				<field name="customSoc2ON" class="switch" type="checkbox" label="Custom Icon 2 ON/OFF" description="Custom Icon 2 ON/OFF" value="true" />
+				
+				<field name="customSoc3" class="input-text" type="text" label="Custom Icon 3 URL" description="Type an URL to your social community profile" size="80" />
+				<field name="customSoc3Icon" class="input-text" type="list" default="" label="Custom Icon 3 - Select Icon" description="">
+					<option value="socicon-modelmayhem">modelmayhem</option><option value="socicon-mixcloud">mixcloud</option><option value="socicon-swarm">swarm</option><option value="socicon-yammer">yammer</option><option value="socicon-ello">ello</option><option value="socicon-stackoverflow">stackoverflow</option><option value="socicon-persona">persona</option><option value="socicon-triplej">triplej</option><option value="socicon-houzz">houzz</option><option value="socicon-odnoklassniki">odnoklassniki</option><option value="socicon-airbnb">airbnb</option><option value="socicon-periscope">periscope</option><option value="socicon-coderwall">coderwall</option><option value="socicon-tripadvisor">tripadvisor</option><option value="socicon-appnet">appnet</option><option value="socicon-goodreads">goodreads</option><option value="socicon-tripit">tripit</option><option value="socicon-lanyrd">lanyrd</option><option value="socicon-slideshare">slideshare</option><option value="socicon-buffer">buffer</option><option value="socicon-disqus">disqus</option><option value="socicon-vkontakte">vkontakte</option><option value="socicon-whatsapp">whatsapp</option><option value="socicon-patreon">patreon</option><option value="socicon-storehouse">storehouse</option><option value="socicon-pocket">pocket</option><option value="socicon-mail">mail</option><option value="socicon-technorati">technorati</option><option value="socicon-reddit">reddit</option><option value="socicon-dribbble">dribbble</option><option value="socicon-behance">behance</option><option value="socicon-delicious">delicious</option><option value="socicon-deviantart">deviantart</option><option value="socicon-forrst">forrst</option><option value="socicon-play">play</option><option value="socicon-zerply">zerply</option><option value="socicon-wikipedia">wikipedia</option><option value="socicon-flattr">flattr</option><option value="socicon-github">github</option><option value="socicon-renren">renren</option><option value="socicon-friendfeed">friendfeed</option><option value="socicon-newsvine">newsvine</option><option value="socicon-identica">identica</option><option value="socicon-bebo">bebo</option><option value="socicon-zynga">zynga</option><option value="socicon-steam">steam</option><option value="socicon-xbox">xbox</option><option value="socicon-qq">qq</option><option value="socicon-douban">douban</option><option value="socicon-meetup">meetup</option><option value="socicon-android">android</option><option value="socicon-snapchat">snapchat</option><option value="socicon-foursquare">foursquare</option><option value="socicon-skype">skype</option><option value="socicon-yelp">yelp</option><option value="socicon-feedburner">feedburner</option><option value="socicon-viadeo">viadeo</option><option value="socicon-xing">xing</option><option value="socicon-myspace">myspace</option><option value="socicon-soundcloud">soundcloud</option><option value="socicon-spotify">spotify</option><option value="socicon-grooveshark">grooveshark</option><option value="socicon-lastfm">lastfm</option><option value="socicon-dailymotion">dailymotion</option><option value="socicon-vine">vine</option><option value="socicon-flickr">flickr</option><option value="socicon-500px">500px</option><option value="socicon-tumblr">tumblr</option><option value="socicon-twitch">twitch</option><option value="socicon-8tracks">8tracks</option><option value="socicon-icq">icq</option><option value="socicon-smugmug">smugmug</option><option value="socicon-ravelry">ravelry</option><option value="socicon-weibo">weibo</option><option value="socicon-baidu">baidu</option><option value="socicon-angellist">angellist</option><option value="socicon-imdb">imdb</option><option value="socicon-stayfriends">stayfriends</option><option value="socicon-residentadvisor">residentadvisor</option><option value="socicon-google">google</option><option value="socicon-sharethis">sharethis</option><option value="socicon-bandcamp">bandcamp</option><option value="socicon-itunes">itunes</option><option value="socicon-deezer">deezer</option><option value="socicon-medium">medium</option><option value="socicon-telegram">telegram</option><option value="socicon-openid">openid</option><option value="socicon-amplement">amplement</option><option value="socicon-viber">viber</option><option value="socicon-zomato">zomato</option>			
+				</field>
+
+				<field name="customSoc3ON" class="switch" type="checkbox" label="Custom Icon 3 ON/OFF" description="Custom Icon 3 ON/OFF" value="true" />
+				
+				<field name="customSoc4" class="input-text" type="text" label="Custom Icon 4 URL" description="Type an URL to your social community profile" size="80" />
+				<field name="customSoc4Icon" class="input-text" type="list" default="" label="Custom Icon 4 - Select Icon" description="">
+					<option value="socicon-modelmayhem">modelmayhem</option><option value="socicon-mixcloud">mixcloud</option><option value="socicon-swarm">swarm</option><option value="socicon-yammer">yammer</option><option value="socicon-ello">ello</option><option value="socicon-stackoverflow">stackoverflow</option><option value="socicon-persona">persona</option><option value="socicon-triplej">triplej</option><option value="socicon-houzz">houzz</option><option value="socicon-odnoklassniki">odnoklassniki</option><option value="socicon-airbnb">airbnb</option><option value="socicon-periscope">periscope</option><option value="socicon-coderwall">coderwall</option><option value="socicon-tripadvisor">tripadvisor</option><option value="socicon-appnet">appnet</option><option value="socicon-goodreads">goodreads</option><option value="socicon-tripit">tripit</option><option value="socicon-lanyrd">lanyrd</option><option value="socicon-slideshare">slideshare</option><option value="socicon-buffer">buffer</option><option value="socicon-disqus">disqus</option><option value="socicon-vkontakte">vkontakte</option><option value="socicon-whatsapp">whatsapp</option><option value="socicon-patreon">patreon</option><option value="socicon-storehouse">storehouse</option><option value="socicon-pocket">pocket</option><option value="socicon-mail">mail</option><option value="socicon-technorati">technorati</option><option value="socicon-reddit">reddit</option><option value="socicon-dribbble">dribbble</option><option value="socicon-behance">behance</option><option value="socicon-delicious">delicious</option><option value="socicon-deviantart">deviantart</option><option value="socicon-forrst">forrst</option><option value="socicon-play">play</option><option value="socicon-zerply">zerply</option><option value="socicon-wikipedia">wikipedia</option><option value="socicon-flattr">flattr</option><option value="socicon-github">github</option><option value="socicon-renren">renren</option><option value="socicon-friendfeed">friendfeed</option><option value="socicon-newsvine">newsvine</option><option value="socicon-identica">identica</option><option value="socicon-bebo">bebo</option><option value="socicon-zynga">zynga</option><option value="socicon-steam">steam</option><option value="socicon-xbox">xbox</option><option value="socicon-qq">qq</option><option value="socicon-douban">douban</option><option value="socicon-meetup">meetup</option><option value="socicon-android">android</option><option value="socicon-snapchat">snapchat</option><option value="socicon-foursquare">foursquare</option><option value="socicon-skype">skype</option><option value="socicon-yelp">yelp</option><option value="socicon-feedburner">feedburner</option><option value="socicon-viadeo">viadeo</option><option value="socicon-xing">xing</option><option value="socicon-myspace">myspace</option><option value="socicon-soundcloud">soundcloud</option><option value="socicon-spotify">spotify</option><option value="socicon-grooveshark">grooveshark</option><option value="socicon-lastfm">lastfm</option><option value="socicon-dailymotion">dailymotion</option><option value="socicon-vine">vine</option><option value="socicon-flickr">flickr</option><option value="socicon-500px">500px</option><option value="socicon-tumblr">tumblr</option><option value="socicon-twitch">twitch</option><option value="socicon-8tracks">8tracks</option><option value="socicon-icq">icq</option><option value="socicon-smugmug">smugmug</option><option value="socicon-ravelry">ravelry</option><option value="socicon-weibo">weibo</option><option value="socicon-baidu">baidu</option><option value="socicon-angellist">angellist</option><option value="socicon-imdb">imdb</option><option value="socicon-stayfriends">stayfriends</option><option value="socicon-residentadvisor">residentadvisor</option><option value="socicon-google">google</option><option value="socicon-sharethis">sharethis</option><option value="socicon-bandcamp">bandcamp</option><option value="socicon-itunes">itunes</option><option value="socicon-deezer">deezer</option><option value="socicon-medium">medium</option><option value="socicon-telegram">telegram</option><option value="socicon-openid">openid</option><option value="socicon-amplement">amplement</option><option value="socicon-viber">viber</option><option value="socicon-zomato">zomato</option>			
+				</field>
+
+				<field name="customSoc4ON" class="switch" type="checkbox" label="Custom Icon 4 ON/OFF" description="Custom Icon 4 ON/OFF" value="true" />
+				
+				<field name="customSoc5" class="input-text" type="text" label="Custom Icon 5 URL" description="Type an URL to your social community profile" size="80" />
+				<field name="customSoc5Icon" class="input-text" type="list" default="" label="Custom Icon 5 - Select Icon" description="">
+					<option value="socicon-modelmayhem">modelmayhem</option><option value="socicon-mixcloud">mixcloud</option><option value="socicon-swarm">swarm</option><option value="socicon-yammer">yammer</option><option value="socicon-ello">ello</option><option value="socicon-stackoverflow">stackoverflow</option><option value="socicon-persona">persona</option><option value="socicon-triplej">triplej</option><option value="socicon-houzz">houzz</option><option value="socicon-odnoklassniki">odnoklassniki</option><option value="socicon-airbnb">airbnb</option><option value="socicon-periscope">periscope</option><option value="socicon-coderwall">coderwall</option><option value="socicon-tripadvisor">tripadvisor</option><option value="socicon-appnet">appnet</option><option value="socicon-goodreads">goodreads</option><option value="socicon-tripit">tripit</option><option value="socicon-lanyrd">lanyrd</option><option value="socicon-slideshare">slideshare</option><option value="socicon-buffer">buffer</option><option value="socicon-disqus">disqus</option><option value="socicon-vkontakte">vkontakte</option><option value="socicon-whatsapp">whatsapp</option><option value="socicon-patreon">patreon</option><option value="socicon-storehouse">storehouse</option><option value="socicon-pocket">pocket</option><option value="socicon-mail">mail</option><option value="socicon-technorati">technorati</option><option value="socicon-reddit">reddit</option><option value="socicon-dribbble">dribbble</option><option value="socicon-behance">behance</option><option value="socicon-delicious">delicious</option><option value="socicon-deviantart">deviantart</option><option value="socicon-forrst">forrst</option><option value="socicon-play">play</option><option value="socicon-zerply">zerply</option><option value="socicon-wikipedia">wikipedia</option><option value="socicon-flattr">flattr</option><option value="socicon-github">github</option><option value="socicon-renren">renren</option><option value="socicon-friendfeed">friendfeed</option><option value="socicon-newsvine">newsvine</option><option value="socicon-identica">identica</option><option value="socicon-bebo">bebo</option><option value="socicon-zynga">zynga</option><option value="socicon-steam">steam</option><option value="socicon-xbox">xbox</option><option value="socicon-qq">qq</option><option value="socicon-douban">douban</option><option value="socicon-meetup">meetup</option><option value="socicon-android">android</option><option value="socicon-snapchat">snapchat</option><option value="socicon-foursquare">foursquare</option><option value="socicon-skype">skype</option><option value="socicon-yelp">yelp</option><option value="socicon-feedburner">feedburner</option><option value="socicon-viadeo">viadeo</option><option value="socicon-xing">xing</option><option value="socicon-myspace">myspace</option><option value="socicon-soundcloud">soundcloud</option><option value="socicon-spotify">spotify</option><option value="socicon-grooveshark">grooveshark</option><option value="socicon-lastfm">lastfm</option><option value="socicon-dailymotion">dailymotion</option><option value="socicon-vine">vine</option><option value="socicon-flickr">flickr</option><option value="socicon-500px">500px</option><option value="socicon-tumblr">tumblr</option><option value="socicon-twitch">twitch</option><option value="socicon-8tracks">8tracks</option><option value="socicon-icq">icq</option><option value="socicon-smugmug">smugmug</option><option value="socicon-ravelry">ravelry</option><option value="socicon-weibo">weibo</option><option value="socicon-baidu">baidu</option><option value="socicon-angellist">angellist</option><option value="socicon-imdb">imdb</option><option value="socicon-stayfriends">stayfriends</option><option value="socicon-residentadvisor">residentadvisor</option><option value="socicon-google">google</option><option value="socicon-sharethis">sharethis</option><option value="socicon-bandcamp">bandcamp</option><option value="socicon-itunes">itunes</option><option value="socicon-deezer">deezer</option><option value="socicon-medium">medium</option><option value="socicon-telegram">telegram</option><option value="socicon-openid">openid</option><option value="socicon-amplement">amplement</option><option value="socicon-viber">viber</option><option value="socicon-zomato">zomato</option>			
+				</field>
+
+				<field name="customSoc5ON" class="switch" type="checkbox" label="Custom Icon 5 ON/OFF" description="Custom Icon 5 ON/OFF" value="true" />
+				
+			</fieldset>
+			
+			<fieldset name="cookielaw" label="EU Cookie Law Window Settings">
+				<field name="usecookielaw" class="switch" type="checkbox" label="ON/OFF EU Cookie Law Window" description="Turn ON this option if you want to use EU Cookie Law Window at your website. " value="true" />
+				<field name="cookielawposition" class="input-text" type="list" default="bottomfixed" label="Set Window Position" description="">
+					<option value="topstatic">Top Static</option>
+					<option value="topfixed">Top Fixed</option>
+					<option value="bottomfixed">Bottom Fixed</option>
+					<option value="bottomleftwindowfixed">Bottom Left Window Fixed</option>
+					<option value="bottomRightwindowfixed">Bottom Right Window Fixed</option>
+				</field>
+				<field name="windowtitle" class="input-text" type="text" label="Window Title" default="This website is using cookies" description="Type here a cookies law pop up window title" size="80"></field>
+				<field name="windowbody" type="textarea" filter="raw" class="input-text" label="Cookie Law Content" description="Type here your cookie law text" rows="4" cols="60" />
+				
+				<field name="agreelinklabel" class="input-text" type="text" label="Agree Link Label" default="I understand" description="Type here a cookies law pop up window agree link label" size="80"></field>
+				<field name="learnmorelinklabel" class="input-text" type="text" label="Learn More Link Label" default="Learn more" description="Type here a cookies law pop up window learn more link label" size="80"></field>
+				<field name="learnmorelink" class="input-text" type="text" label="Learn More Link" default="/cookies-law.html" description="Put here a link to your cookies policy page" size="80"></field>
+				<field name="learnmorelinktargetwindow" class="input-text" type="list" default="_blank" label="Target Window" description="Target browser window when Learn More link is selected">
+					<option value="_parent">Parent</option>
+					<option value="_blank">Blank</option>
+				</field>
+				
+				<field name="cookiecolor1" type="color" default="#333333" label="Window Background Color" description="" size="7"></field>
+				<field name="cookiecolor2" type="color" default="#ffffff" label="Window Title Color" description="" size="7"></field>
+				<field name="cookiecolor3" type="color" default="#d1d1d1" label="Law Content Text Color" description="" size="7"></field>
+				<field name="cookiecolor4" type="color" default="#5dbede" label="Links Color" description="" size="7"></field>
+				<field name="windowopacity" class="input-text" type="text" label="Use window opacity" default="0.9" description="Type a value between 0 and 1 if you want to use an opacity, for example 0.9 will set opacity to 90%." size="80"></field>
+					
+			</fieldset>
+
+			<fieldset name="DropDownMenuSettings" label="Drop Down Menus Settings">
+				<field name="usedropdown" class="switch" type="checkbox" label="ON/OFF drop down menu" description="" value="true" />
+				<field name="dropopacity" class="switch" type="checkbox" label="ON/OFF drop down opacity" description="" value="true" />
+				<field name="dropheight" class="switch" type="checkbox" label="ON/OFF drop down height" description="" value="true" />
+				<field name="dropwidth" class="switch" type="checkbox" label="ON/OFF drop down width" description="" value="true" />
+				<field name="dropspeed" class="input-text" type="list" default="normal" label="Drop Down Speed" description="">
+					<option value="slow">Slow</option>
+					<option value="normal">Normal</option>
+					<option value="fast">Fast</option>
+				</field>
+				<field name="dropdownhandler1" class="input-text" type="text" label="Min column width (em)" default="15" description="Set the default drop down handler width" size="10"></field>
+				<field name="dropdownhandler1maxwidth" class="input-text" type="text" label="Max column width (em)" default="18" description="Set the default drop down handler max width" size="10"></field>
+				<field name="dropdownhandler2" class="input-text" type="text" label="Drop Down 2 columns width (px)" default="360" description="Change the width for a drop down menu handler (Menu Items sorted in 2 columns)" size="10"></field>
+				<field name="dropdownhandler3" class="input-text" type="text" label="Drop Down 3 columns width (px)" default="500" description="Change the width for a drop down menu handler (Menu Items sorted in 3 columns)" size="10"></field>
+				<field name="dropdownhandler4" class="input-text" type="text" label="Drop Down 4 columns width (px)" default="660" description="Change the width for a drop down menu handler (Menu Items sorted in 4 columns)" size="10"></field>
+				<field name="dropdownhandler5" class="input-text" type="text" label="Drop Down 5 columns width (px)" default="860" description="Change the width for a drop down menu handler (Menu Items sorted in 5 columns)" size="10"></field>
+				
+				<field name="usemegamenu" class="switch" type="checkbox" label="ON/OFF Built-in Mega Menu" description="" value="true" />
+				<field name="selectmegamenu" type="menu" default="" label="Select a menu for Mega Menu" description="Select menu you want to use to handle mega menu." />
+				<field name="megamenuanim" class="input-text" type="list" default="off" label="Use Mega Menu Init Animation" description="">
+					<option value="off">Off</option>
+					<option value="moveleft">Move Left</option>
+					<option value="moveright">Move Right</option>
+					<option value="moveup">Move Up</option>
+					<option value="movedown">Move Down</option>
+				</field>
+				
+				
+			</fieldset>
+			<fieldset name="customcode" label="Template Header And Footer Custom Code">
+			
+				<field type="spacer" class="inline-help" label="Using text fields below you can put your custom code in the document head and in the footer. This option is very usable if you would like to put Google Analytics or any other 3rd parties. " />
+
+				<field name="headcode" type="textarea" filter="raw" class="input-text" label="Insert code into template header" description="This field allows to put the code between [head] and [/head]" rows="10" cols="60" />
+				<field name="footercode" type="textarea" filter="raw" class="input-text" label="Insert code into template footer" description="This field allows to put the code before the closing [/body] tag" rows="10" cols="60" />
+			
+			</fieldset>
+			<fieldset name="slideshowsettings" label="Built-in Slideshow Settings">
+
+				<field name="cam_turnOn" class="switch" type="checkbox" label="Turn Slideshow ON/OFF" description="Set On if you would like to use built-in slideshow. Set OFF if you are planning to use any 3rd party extensions." value="true" />
+
+				<field name="cam_autoAdvance" class="switch" type="checkbox" label="Turn ON/OFF autoplaying" description="Turn On if you would like to your slideshow to play automatically once your website load" value="true" />
+				
+				<field name="cam_mobileAutoAdvance" class="switch" type="checkbox" label="Turn ON/OFF autoplaying for mobiles" description="Turn On if you would like to your slideshow to play automatically once your website load on mobile devices" value="true" />
+
+				<field name="cam_slideOn" class="input-text" type="list" default="random" label="Slide Effect On" description="Decide if the transition effect will be applied to the current (prev) or the next slide">
+				  <option value="random">Random</option>
+				  <option value="next">Next</option>
+				  <option value="prev">Prev</option>
+				</field>
+
+				<field name="cam_thumbnails" class="switch" type="checkbox" label="Turn ON/OFF thumbnails" description="Turn On thumbnails for slideshow" value="true" />
+				
+				<field name="cam_time" class="input-text" type="text" default="7000" label="Slide Duration (ms)" description="Milliseconds between the end of the sliding effect and the start of the nex one" size="6" />
+				
+				<field name="cam_transPeriod" class="input-text" type="text" default="1500" label="Animation Duration (ms)" description="Lenght of the sliding effect in milliseconds" size="6" />
+				
+				<field name="cam_cols" class="input-text" type="text" default="10" label="Columns for images transitions" description="Type a number of columns you want to split images during transitions" size="6" />
+
+				<field name="cam_rows" class="input-text" type="text" default="10" label="Rows for images transitions" description="Type a number of rows you want to split images during transitions" size="6" />
+
+				<field name="cam_slicedCols" class="input-text" type="text" default="10" label="Columns for sliced images transitions" description="Type a number of columns you want to slice images during transitions" size="6" />
+
+				<field name="cam_slicedRows" class="input-text" type="text" default="10" label="Rows for sliced images transitions" description="Type a number of rows you want to slice images during transitions" size="6" />
+
+				<field name="cam_fx" class="input-text" type="list" default="random" label="Choose FX Effects" description="Select a fx effect for the slides transitions. ">
+					<option value="random">Random</option>
+					<option value="simpleFade">simpleFade</option>
+					<option value="curtainTopLeft">curtainTopLeft</option>
+					<option value="curtainTopRight">curtainTopRight</option>
+					<option value="curtainBottomLeft">curtainBottomLeft</option>
+					<option value="curtainBottomRight">curtainBottomRight</option>
+					<option value="curtainSliceLeft">curtainSliceLeft</option>
+					<option value="curtainSliceRight">curtainSliceRight</option>
+					<option value="blindCurtainTopLeft">blindCurtainTopLeft</option>
+					<option value="blindCurtainTopRight">blindCurtainTopRight</option>
+					<option value="blindCurtainBottomLeft">blindCurtainBottomLeft</option>
+					<option value="blindCurtainBottomRight">blindCurtainBottomRight</option>
+					<option value="blindCurtainSliceBottom">blindCurtainSliceBottom</option>
+					<option value="blindCurtainSliceTop">blindCurtainSliceTop</option>
+					<option value="stampede">stampede</option>
+					<option value="mosaic">mosaic</option>
+					<option value="mosaicReverse">mosaicReverse</option>
+					<option value="mosaicRandom">mosaicRandom</option>
+					<option value="mosaicSpiral">mosaicSpiral</option>
+					<option value="mosaicSpiralReverse">mosaicSpiralReverse</option>
+					<option value="topLeftBottomRight">topLeftBottomRight</option>
+					<option value="bottomRightTopLeft">bottomRightTopLeft</option>
+					<option value="bottomLeftTopRight">bottomLeftTopRight</option>
+					<option value="bottomLeftTopRight">bottomLeftTopRight</option>
+					<option value="scrollLeft">scrollLeft</option>
+					<option value="scrollRight">scrollRight</option>
+					<option value="scrollHorz">scrollHorz</option>
+					<option value="scrollBottom">scrollBottom</option>
+					<option value="scrollTop">scrollTop</option>
+				</field>
+
+				<field name="cam_fx_multiple_on" class="switch" type="checkbox" label="Use Multiple FX Effects" description="You can also use more than one effect, just type an effects names in field below. Separate values with commas:&lt;br /&gt;&lt;br /&gt;
+				&lt;code&gt;simpleFade, scrollRight, scrollBottom&lt;/code&gt;" value="true" />
+
+				<field type="spacer" class="inline-help" label="&lt;b&gt;FX Effects:&lt;/b&gt;
+				&lt;br /&gt;
+				simpleFade, curtainTopLeft, curtainTopRight, curtainBottomLeft, &lt;br /&gt;
+				curtainBottomRight, curtainSliceLeft, curtainSliceRight, blindCurtainTopLeft, &lt;br /&gt;
+				blindCurtainTopRight, blindCurtainBottomLeft, blindCurtainBottomRight,&lt;br /&gt;
+				blindCurtainSliceBottom, blindCurtainSliceTop, stampede,&lt;br /&gt;
+				mosaic, mosaicReverse, mosaicRandom, mosaicSpiral, mosaicSpiralReverse,&lt;br /&gt;
+				topLeftBottomRight, bottomRightTopLeft, bottomLeftTopRight,&lt;br /&gt;
+				bottomLeftTopRight, scrollLeft, scrollRight, scrollHorz, scrollBottom, scrollTop" />
+				
+				<field name="cam_fx_multi" type="textarea" filter="raw" class="input-text" label="Multiple FX Effects" description="Type and separate an effects names with commas, for example:&lt;br /&gt;&lt;br /&gt;
+				&lt;code&gt;simpleFade, scrollRight, scrollBottom&lt;/code&gt;" rows="3" cols="60" />
+				
+				<field name="cam_gridDifference" class="input-text" type="text" default="250" label="Grid Difference" description="To make the grid blocks slower than the slices, this value must be smaller than Animation Duration" size="6" />
+
+				<field name="cam_height" class="input-text" type="text" default="50%" label="Height" description="Here you can type pixels (for example 300px), a percentage (relative to the width of the slideshow, for instance 50%) or auto" size="6" />
+
+				<field name="cam_minHeight" class="input-text" type="text" default="400px" label="Min Height" description="Here you can type pixels (for example 300px), a percentage (relative to the width of the slideshow, for instance 50%) or you can also leave it empty" size="6" />
+
+				<field name="cam_hover" class="switch" type="checkbox" label="Pause on state hover" description="Pause on state hover. Not available for mobile devices" value="true" />
+				
+				<field name="cam_loader" class="input-text" type="list" default="pie" label="Loader" description="Choose loader style. Even if you choose pie, old browsers like IE8 can't display it. They will display always a loading bar instead.">
+					<option value="pie">Pie</option>
+					<option value="bar">Bar</option>
+					<option value="none">None</option>
+				</field>
+				
+				<field name="cam_barDirection" class="input-text" type="list" default="leftToRight" label="Bar Direction" description="Choose Bar Direction">
+					<option value="leftToRight">Left To Right</option>
+					<option value="rightToLeft">Right To Left</option>
+					<option value="topToBottom">Top To Bottom</option>
+					<option value="bottomToTop">Bottom To Top</option>
+				</field>
+				
+				<field name="cam_barPosition" class="input-text" type="list" default="bottom" label="Bar Position" description="Choose Bar Position">
+					<option value="bottom">Bottom</option>
+					<option value="left">Left</option>
+					<option value="top">Top</option>
+					<option value="right">Right</option>
+				</field>
+
+				<field name="cam_pieDiameter" class="input-text" type="text" default="38" label="Pie Diameter" description="Type Pie Diameter" size="6" />
+
+				<field name="cam_piePosition" class="input-text" type="list" default="rightTop" label="Pie Position" description="Choose Pie Position">
+					<option value="rightTop">Right Top</option>
+					<option value="leftTop">Left Top</option>
+					<option value="leftBottom">Left Bottom</option>
+					<option value="rightBottom">Right Bottom</option>
+				</field>
+				
+				<field name="cam_loaderColor" type="color" default="#eeeeee" label="Loader Color" description="Choose Loader Color" size="7" />
+				
+				<field name="cam_loaderBgColor" type="color" default="#222222" label="Loader Background Color" description="Choose Loader Background Color" size="7" />
+
+				<field name="cam_loaderOpacity" type="text" class="input-text" label="Loader Opacity" default="0.8" description="Choose loader opacity" />
+
+				<field name="cam_loaderPadding" type="text" class="input-text" label="Loader Padding" default="1" description="Choose how many empty pixels you want to display between the loader and its background" />
+				
+				<field name="cam_loaderStroke" type="text" class="input-text" label="Loader Stroke" default="5" description="The thickness both of the pie loader and of the bar loader. Remember: for the pie, the loader thickness must be less than a half of the Pie Diameter" />
+				
+				<field name="cam_navigation" class="switch" type="checkbox" label="Navigation" description="Display navigation buttons" value="true" />
+				
+				<field name="cam_playPause" class="switch" type="checkbox" label="Play/Pause" description="Display play/pause buttons" value="true" />
+				
+				<field name="cam_navigationHover" class="switch" type="checkbox" label="Navigation Hover" description="If true the navigation button (prev, next and play/stop buttons) will be visible on hover state only, if false they will be visible always" value="true" />
+				
+				<field name="cam_mobileNavHover" class="switch" type="checkbox" label="Mobile Navigation Hover" description="If true the navigation button on Mobile devices (prev, next and play/stop buttons) will be visible on hover state only, if false they will be visible always" value="true" />
+				
+				<field name="cam_opacityOnGrid" class="switch" type="checkbox" label="Opacity On Grid" description="Decide to apply a fade effect to blocks and slices. If your slideshow is fullscreen or just big, it is strongly recommended to set it to false to have a smoother effect " value="true" />
+
+				<field name="cam_pagination" class="switch" type="checkbox" label="Pagination" description="Display Pagination" value="true" />
+
+				<field name="cam_pauseOnClick" class="switch" type="checkbox" label="Pause On Click" description="This option stops the slideshow when you click the sliders." value="true" />
+
+				<field name="cam_portrait" class="switch" type="checkbox" label="Portrait" description="Select true if you don't want that your images are cropped" value="true" />
+				
+
+				<field name="cam_captionTop2" type="text" class="input-text" label="Caption Position (space from top)" default="33%" description="Set Caption 2 spacing from top" />
+
+			</fieldset>
+			
+			<fieldset name="vmtslickproductslider" label="Slick Products Slider Settings">
+			
+				<field name="slick_pagination" class="switch" type="checkbox" label="Turn ON/OFF Pagination" description="Turn ON/OFF Pagination" value="true" />
+				<field name="slick_fade" class="switch" type="checkbox" label="Turn ON/OFF Fading" description="Turn ON/OFF Fading" value="true" />
+				<field name="slick_autoplay" class="switch" type="checkbox" label="Turn ON/OFF Auto-playing" description="Turn ON/OFF Auto-playing" value="true" />
+				<field name="slick_pauseOnHover" class="switch" type="checkbox" label="Turn ON/OFF Pause On Mouse Move" description="Turn ON/OFF Pause On Mouse Move" value="true" />
+				<field name="slickplayspeed" class="input-text" type="text" default="5000" label="Slides speed" description="Slides speed in milisecends" size="6" />
+
+			</fieldset>
+		  
+			<fieldset name="vmtproductslider" label="OWL Products Slider Settings">
+
+
+				<field name="sl_pagination" class="switch" type="checkbox" label="Turn ON/OFF Pagination" description="Turn ON/OFF Pagination" value="true" />
+				<field name="sl_paginationSpeed" class="input-text" type="text" default="800" label="Pagination speed in milliseconds" description="Pagination speed in milliseconds" size="6" />
+				
+				<field name="sl_autoPlay" class="input-text" type="text" default="false" label="Auto Play" description="Auto Play speed in milliseconds. Keep 'false' to turn off auto play" size="6" />
+				
+				<field name="sl_slideSpeed" class="input-text" type="text" default="200" label="Slide speed in milliseconds" description="Slide speed in milliseconds" size="6" />
+				<field name="sl_rewindSpeed" class="input-text" type="text" default="1000" label="Rewind speed in milliseconds" description="Rewind speed in milliseconds" size="6" />
+
+				<field name="sl_stopOnHover" class="switch" type="checkbox" label="Turn ON/OFF autoplay on mouse hover" description="" value="true" />
+				<field name="sl_navigation" class="switch" type="checkbox" label="Turn ON/OFF navigation" description="" value="true" />
+				<field name="sl_scrollPerPage" class="switch" type="checkbox" label="Turn ON/OFF scroll per page not per item" description="" value="true" />
+				<field name="sl_paginationNumbers" class="switch" type="checkbox" label="Turn ON/OFF numbers inside pagination buttons" description="" value="true" />
+				<field name="sl_responsive" class="switch" type="checkbox" label="Turn ON/OFF responsive mode" description="" value="true" />
+				<field name="sl_responsiveRefreshRate" class="input-text" type="text" default="150" label="Window Refresh Rate" description="Check window width changes every 200ms for responsive actions" size="6" />
+					
+				<field name="sl_dragBeforeAnimFinish" class="switch" type="checkbox" label="Turn ON/OFF Drag during animations" description="Ignore whether a transition is done or not (only dragging)" value="true" />
+				<field name="sl_mouseDrag" class="switch" type="checkbox" label="Turn ON/OFF mouse drag" description="" value="true" />
+				<field name="sl_touchDrag" class="switch" type="checkbox" label="Turn ON/OFF touch drag " description="" value="true" />
+			</fieldset>
+		  
+			<fieldset name="vmttestimonialsslider" label="Testimonials Slider Settings">
+						
+				<field name="testi_title" type="textarea" filter="raw" class="input-text" label="Testimonials Box Label" description="Type label visible above testimonials" rows="2" cols="60" />
+				<field name="testi_desc" type="textarea" filter="raw" class="input-text" label="Testimonials Box Description" description="Type description visible above testimonials" rows="4" cols="60" />
+				
+				<field name="testisl_items" class="input-text" type="text" default="1" label="Default Number of items" description="This variable allows you to set the maximum amount of items displayed at a time with the widest browser width" size="6" />
+				
+				<field name="testisl_itemsDesktop" class="input-text" type="text" default="1" label="Default Number of items" description="Set for devices smaller than 1600px of width" size="6" />
+				<field name="testisl_itemsDesktopSmall" class="input-text" type="text" default="1" label="Default Number of items" description="Set for devices smaller than 1260px of width" size="6" />
+				<field name="testisl_itemsTablet" class="input-text" type="text" default="1" label="Default Number of items" description="Set for devices smaller than 1000px of width" size="6" />
+				<field name="testisl_itemsTabletSmall" class="input-text" type="text" default="1" label="Default Number of items" description="Set for devices smaller than 768px of width" size="6" />
+				<field name="testisl_itemsMobile" class="input-text" type="text" default="1" label="Default Number of items" description="Set for devices smaller than 480px of width" size="6" />
+
+				<field name="testisl_pagination" class="switch" type="checkbox" label="Turn ON/OFF Pagination" description="Turn ON/OFF Pagination" value="true" />
+				<field name="testisl_paginationSpeed" class="input-text" type="text" default="800" label="Pagination speed in milliseconds" description="Pagination speed in milliseconds" size="6" />
+				
+				<field name="testisl_autoPlay" class="input-text" type="text" default="false" label="Auto Play" description="Auto Play speed in milliseconds. Keep 'false' to turn off auto play" size="6" />
+				
+				<field name="testisl_slideSpeed" class="input-text" type="text" default="200" label="Slide speed in milliseconds" description="Slide speed in milliseconds" size="6" />
+				<field name="testisl_rewindSpeed" class="input-text" type="text" default="1000" label="Rewind speed in milliseconds" description="Rewind speed in milliseconds" size="6" />
+
+				<field name="testisl_stopOnHover" class="switch" type="checkbox" label="Turn ON/OFF autoplay on mouse hover" description="" value="true" />
+				<field name="testisl_navigation" class="switch" type="checkbox" label="Turn ON/OFF navigation" description="" value="true" />
+				<field name="testisl_scrollPerPage" class="switch" type="checkbox" label="Turn ON/OFF scroll per page not per item" description="" value="true" />
+				<field name="testisl_paginationNumbers" class="switch" type="checkbox" label="Turn ON/OFF numbers inside pagination buttons" description="" value="true" />
+				<field name="testisl_responsive" class="switch" type="checkbox" label="Turn ON/OFF responsive mode" description="" value="true" />
+				<field name="testisl_responsiveRefreshRate" class="input-text" type="text" default="150" label="Window Refresh Rate" description="Check window width changes every 200ms for responsive actions" size="6" />
+					
+				<field name="testisl_dragBeforeAnimFinish" class="switch" type="checkbox" label="Turn ON/OFF Drag during animations" description="Ignore whether a transition is done or not (only dragging)" value="true" />
+				<field name="testisl_mouseDrag" class="switch" type="checkbox" label="Turn ON/OFF mouse drag" description="" value="true" />
+				<field name="testisl_touchDrag" class="switch" type="checkbox" label="Turn ON/OFF touch drag " description="" value="true" />
+
+			</fieldset>
+		  
+			<fieldset name="manproductslider" label="Manufacturers Slider Settings">
+
+
+				<field name="man_items" class="input-text" type="text" default="8" label="Default Number of items" description="This variable allows you to set the maximum amount of items displayed at a time with the widest browser width" size="6" />
+				
+				<field name="man_itemsDesktop" class="input-text" type="text" default="8" label="Default Number of items" description="Set for devices smaller than 1600px of width" size="6" />
+				<field name="man_itemsDesktopSmall" class="input-text" type="text" default="8" label="Default Number of items" description="Set for devices smaller than 1260px of width" size="6" />
+				<field name="man_itemsTablet" class="input-text" type="text" default="6" label="Default Number of items" description="Set for devices smaller than 1000px of width" size="6" />
+				<field name="man_itemsTabletSmall" class="input-text" type="text" default="4" label="Default Number of items" description="Set for devices smaller than 768px of width" size="6" />
+				<field name="man_itemsMobile" class="input-text" type="text" default="3" label="Default Number of items" description="Set for devices smaller than 480px of width" size="6" />
+
+				<field name="man_pagination" class="switch" type="checkbox" label="Turn ON/OFF Pagination" description="Turn ON/OFF Pagination" value="true" />
+				<field name="man_paginationSpeed" class="input-text" type="text" default="800" label="Pagination speed in milliseconds" description="Pagination speed in milliseconds" size="6" />
+				
+				<field name="man_autoPlay" class="input-text" type="text" default="false" label="Auto Play" description="Auto Play speed in milliseconds. Keep 'false' to turn off auto play" size="6" />
+				
+				<field name="man_slideSpeed" class="input-text" type="text" default="200" label="Slide speed in milliseconds" description="Slide speed in milliseconds" size="6" />
+				<field name="man_rewindSpeed" class="input-text" type="text" default="1000" label="Rewind speed in milliseconds" description="Rewind speed in milliseconds" size="6" />
+
+				<field name="man_stopOnHover" class="switch" type="checkbox" label="Turn ON/OFF autoplay on mouse hover" description="" value="true" />
+				<field name="man_navigation" class="switch" type="checkbox" label="Turn ON/OFF navigation" description="" value="true" />
+				<field name="man_scrollPerPage" class="switch" type="checkbox" label="Turn ON/OFF scroll per page not per item" description="" value="true" />
+				<field name="man_paginationNumbers" class="switch" type="checkbox" label="Turn ON/OFF numbers inside pagination buttons" description="" value="true" />
+				<field name="man_responsive" class="switch" type="checkbox" label="Turn ON/OFF responsive mode" description="" value="true" />
+				<field name="man_responsiveRefreshRate" class="input-text" type="text" default="150" label="Window Refresh Rate" description="Check window width changes every 200ms for responsive actions" size="6" />
+					
+				<field name="man_dragBeforeAnimFinish" class="switch" type="checkbox" label="Turn ON/OFF Drag during animations" description="Ignore whether a transition is done or not (only dragging)" value="true" />
+				<field name="man_mouseDrag" class="switch" type="checkbox" label="Turn ON/OFF mouse drag" description="" value="true" />
+				<field name="man_touchDrag" class="switch" type="checkbox" label="Turn ON/OFF touch drag " description="" value="true" />
+
+			</fieldset>
+		  
+			<fieldset name="vmtproductimages" label="Product Images Settings">
+				<field name="useZoom" class="switch" type="checkbox" label="ON/OFF Zoom Images Script" description="Select ON to use Zoom script for your product image in Product Details. If OFF then the default VirtueMart solution will be used" value="true" />
+				<field name="zoomType" class="input-text" type="list" default="lens" label="Select Zoom Type" description="Select a type of Zoom used for a product images.">
+					<option value="lens">Lens Zoom</option>
+					<option value="inner">Inner Zoom</option>
+				</field>
+				<field name="lensShape" class="input-text" type="list" default="round" label="Select Lens Type" description="Select a type of Zoom lens">
+					<option value="round">Round</option>
+					<option value="square">Square</option>
+				</field>
+				<field name="lensSize" class="input-text" type="text" default="200" label="Lens Size" description="Set a lens size" size="6" />
+				<field name="cursor" class="input-text" type="list" default="default" label="Select Zoom Cursoe" description="Select a type of Zoom cursor">
+					<option value="default">Default</option>
+					<option value="crosshair">Crosshair</option>
+					<option value="pointer">Pointer</option>
+					<option value="none">None</option>
+				</field>
+				<field name="responsive" class="switch" type="checkbox" label="Responsive Mode" description="ON/OFF Responsive Mode - high recommended if you are using responsive template" value="true" />
+			</fieldset>
+		  
+			<fieldset name="popupbars" label="Side Pop Up Box Settings">
+
+				<field type="spacer" class="inline-help" label="Left Hand Side Pop Up Box" />
+				
+				<field name="HLposition" class="input-text" type="list" default="top" label="Box Position" description="Set Box Position Top or Bottom">
+					<option value="top">Top</option>
+					<option value="bottom">Bottom</option>
+				</field>
+				
+				<field name="HLspaceFrom" class="input-text" type="text" default="308" label="Box Space from Top/Bottom (px)" description="Set Box Space from top or bottom." size="6" />
+				
+				<field name="HLmaxWidth" class="input-text" type="text" default="240" label="Box Width (px)" description="Set Box Width" size="6" />
+				
+				<field name="HLheight" class="input-text" type="text" default="400" label="Box Height (px)" description="Set Box Height" size="6" />
+				
+				<field name="HLlabelSize" class="input-text" type="text" default="100" label="Box Label Width (px)" description="Set Label Width. Please note the label title must be set in module title field in module settings you published into header-left module position." size="6" />
+				
+				<field name="HLboxspeed" class="input-text" type="list" default="normal" label="Box Animation Speed" description="Choose speed level for box animation">
+					<option value="slow">Slow</option>
+					<option value="normal">Normal</option>
+					<option value="fast">Fast</option>
+				</field>
+				
+				<field name="HLmobileVisible" class="input-text" type="list" default="yes" label="Visible on mobile phones?" description="Set Yes to display pop up box on mobile phones.">
+					<option value="yes">Yes!</option>
+					<option value="no">No</option>
+				</field>
+
+				<field type="spacer" class="inline-help" label="Right Hand Side Pop Up Box" />
+				
+				<field name="HRposition" class="input-text" type="list" default="bottom" label="Box Position" description="Set Box Position Top or Bottom">
+					<option value="top">Top</option>
+					<option value="bottom">Bottom</option>
+				</field>
+				
+				<field name="HRspaceFrom" class="input-text" type="text" default="20" label="Box Space from Top/Bottom (px)" description="Set Box Space from top or bottom." size="6" />
+				
+				<field name="HRmaxWidth" class="input-text" type="text" default="240" label="Box Width (px)" description="Set Box Width" size="6" />
+				
+				<field name="HRheight" class="input-text" type="text" default="400" label="Box Height (px)" description="Set Box Height" size="6" />
+				
+				<field name="HRlabelSize" class="input-text" type="text" default="100" label="Box Label Width (px)" description="Set Label Width. Please note the label title must be set in module title field in module settings you published into header-left module position." size="6" />
+				
+				<field name="HRboxspeed" class="input-text" type="list" default="normal" label="Box Animation Speed" description="Choose speed level for box animation">
+					<option value="slow">Slow</option>
+					<option value="normal">Normal</option>
+					<option value="fast">Fast</option>
+				</field>
+				
+				<field name="HRmobileVisible" class="input-text" type="list" default="yes" label="Visible on mobile phones?" description="Set Yes to display pop up box on mobile phones.">
+					<option value="yes">Yes!</option>
+					<option value="no">No</option>
+				</field>
+
+			</fieldset>
+		  
+
+			<fieldset name="colorsettings" label="Color Settings">
+
+				<field name="usetheme" class="switch" type="checkbox" label="Built-in Theme" description="Select ON to use one of the built-in themes. Select OFF to customize the template colour scheme." value="true" />
+				
+				<field name="choosetheme" type="list" default="style1" label="Choose Theme" description="">
+				  <option value="style1">Theme 1</option>
+				  <option value="style2">Theme 2</option>
+				  <option value="style3">Theme 3</option>
+				  <option value="style4">Theme 4</option>
+				  <option value="style5">Theme 5</option>
+				  <option value="style6">Theme 6</option>
+				</field>
+				
+				<field type="spacer" class="inline-help" label="To choose your own colors below simply click the text field to open the color selector tool." />
+
+				<field name="color1" type="color" default="#fe9424" label="Main Color 1" description="" size="7"></field>
+				<field name="color2" type="color" default="#961533" label="Main Color 2" description="" size="7"></field>
+				<field name="color3" type="color" default="#ffa065" label="Main Color 3" description="" size="7"></field>
+				<field name="color4" type="color" default="#7d0521" label="Main Color 4" description="" size="7"></field>
+				<field name="color5" type="color" default="#282a2b" label="Main Color 5" description="" size="7"></field>
+				
+				<field name="color6" type="color" default="#961533" label="Custom Color 1" description="" size="7"></field>
+				<field name="color7" type="color" default="#9e9e9e" label="Custom Color 2" description="" size="7"></field>
+				<field name="color8" type="color" default="#fca000" label="Custom Color 3" description="" size="7"></field>
+				<field name="color9" type="color" default="#ffffff" label="Custom Color 4" description="" size="7"></field>
+				
+				<field name="color10" type="color" default="#961533" label="Custom Background Color 1" description="" size="7"></field>
+				<field name="color11" type="color" default="#f4f4f4" label="Custom Background Color 2" description="" size="7"></field>
+				<field name="color12" type="color" default="#f5f5f5" label="Custom Background Color 3" description="" size="7"></field>
+				<field name="color13" type="color" default="#ffffff" label="Custom Background Color 4" description="" size="7"></field>
+				
+				<field type="spacer" class="inline-help" name="colours_handlers" label="If you are getting any troubles with the custom colors please at first make sure you set OFF for Built-in Theme option." />
+			</fieldset>
+		</fields>
+	</config>
+</extension>
+
+
+
+
+
